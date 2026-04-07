@@ -1,0 +1,5002 @@
+[
+  {
+    "premise": "UAV-A reports: the light truck is moving north.",
+    "hypothesis": "UAV-B reports: the light truck is moving northwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the anti-tank missile position has been silenced.",
+    "hypothesis": "UAV-B reports: the anti-tank missile position is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: several communication base station spotted.",
+    "hypothesis": "UAV-B reports: rocket artillery position detected behind the supply convoy.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the air defense missile system has been destroyed.",
+    "hypothesis": "UAV-B reports: the air defense missile system is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at south side of reservoir dam.",
+    "hypothesis": "UAV-B reports: abandoned buildings nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the engineering support vehicle is moving southwest.",
+    "hypothesis": "UAV-B reports: the engineering support vehicle is moving east.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at hilltop observation post.",
+    "hypothesis": "UAV-B reports: low-frequency vibration detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the radar station is moving north.",
+    "hypothesis": "UAV-B reports: the radar station is moving northwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 1 rocket artillery position spotted.",
+    "hypothesis": "UAV-B reports: field medical team detected behind the field medical team.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the rocket artillery position has been no signs of life.",
+    "hypothesis": "UAV-B reports: the rocket artillery position is still active.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 08:20.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 13:45.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 4 engineering support vehicle spotted.",
+    "hypothesis": "UAV-B reports: rocket artillery position detected behind the radar station.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 16:40.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 13:45.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: no anti-tank missile position spotted.",
+    "hypothesis": "UAV-B reports: fuel supply truck detected behind the engineering support vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: multiple air defense missile system spotted.",
+    "hypothesis": "UAV-B reports: radar station detected behind the drone swarm.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 4 armored personnel carrier spotted.",
+    "hypothesis": "UAV-B reports: rocket artillery position detected behind the field medical team.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the armored command vehicle is moving southwest.",
+    "hypothesis": "UAV-B reports: the armored command vehicle is moving west.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at near oil depot.",
+    "hypothesis": "UAV-B reports: target is located at southern forest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 4 self-propelled artillery spotted.",
+    "hypothesis": "UAV-B reports: anti-tank missile position detected behind the armored command vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 14:15.",
+    "hypothesis": "UAV-B reports: low-frequency vibration detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the field medical team is moving southeast.",
+    "hypothesis": "UAV-B reports: the field medical team is moving north.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 200m.",
+    "hypothesis": "UAV-B reports: target altitude is 100m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: multiple drone spotted.",
+    "hypothesis": "UAV-B reports: command post detected behind the infantry fighting vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 1 radar station spotted.",
+    "hypothesis": "UAV-B reports: air defense missile system detected behind the electronic warfare vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at southern forest.",
+    "hypothesis": "UAV-B reports: target is located at Zone X.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at canyon exit.",
+    "hypothesis": "UAV-B reports: target is located at end of airport runway.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 1500m.",
+    "hypothesis": "UAV-B reports: target altitude is 300m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: a large number of drone swarm spotted.",
+    "hypothesis": "UAV-B reports: armored command vehicle detected behind the reconnaissance drone.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: a large number of drone swarm spotted.",
+    "hypothesis": "UAV-B reports: infantry fighting vehicle detected behind the self-propelled artillery.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 19:30.",
+    "hypothesis": "UAV-B reports: wind speed 15 knots.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at industrial park.",
+    "hypothesis": "UAV-B reports: muddy ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at tunnel entrance.",
+    "hypothesis": "UAV-B reports: weak heat signature.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 13:45.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 23:50.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 4 supply convoy spotted.",
+    "hypothesis": "UAV-B reports: armored personnel carrier detected behind the armored personnel carrier.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the fuel supply truck is moving west.",
+    "hypothesis": "UAV-B reports: the fuel supply truck is moving southeast.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the reconnaissance drone is moving west.",
+    "hypothesis": "UAV-B reports: the reconnaissance drone is moving northwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Position A.",
+    "hypothesis": "UAV-B reports: bird swarm interference detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is clear.",
+    "hypothesis": "UAV-B reports: fresh excavation marks.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is light breeze, good visibility.",
+    "hypothesis": "UAV-B reports: weather is thunderstorm, very poor visibility.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: several command post spotted.",
+    "hypothesis": "UAV-B reports: drone swarm detected behind the engineering support vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 14:15.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 18:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 23:50.",
+    "hypothesis": "UAV-B reports: frequency-hopping communication in use.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at eastern ridge.",
+    "hypothesis": "UAV-B reports: target is located at end of airport runway.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Zone X.",
+    "hypothesis": "UAV-B reports: weak heat signature.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at eastern ridge.",
+    "hypothesis": "UAV-B reports: wind speed 15 knots.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the radar station has been destroyed.",
+    "hypothesis": "UAV-B reports: the radar station is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is sandstorm.",
+    "hypothesis": "UAV-B reports: livestock activity in the area.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at end of airport runway.",
+    "hypothesis": "UAV-B reports: target is located at southern forest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is thunderstorm.",
+    "hypothesis": "UAV-B reports: low-frequency vibration detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the fuel supply truck is moving west.",
+    "hypothesis": "UAV-B reports: the fuel supply truck is moving north.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 18:00.",
+    "hypothesis": "UAV-B reports: bird swarm interference detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at canyon exit.",
+    "hypothesis": "UAV-B reports: abandoned buildings nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 22:00.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 08:20.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at northern plain.",
+    "hypothesis": "UAV-B reports: target is located at industrial park.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the infantry fighting vehicle has been silenced.",
+    "hypothesis": "UAV-B reports: the infantry fighting vehicle is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at end of airport runway.",
+    "hypothesis": "UAV-B reports: target is located at abandoned factory.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 3 communication base station spotted.",
+    "hypothesis": "UAV-B reports: infantry fighting vehicle detected behind the armored command vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Ford C.",
+    "hypothesis": "UAV-B reports: target is located at southern forest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 10:30.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 16:40.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Ford C.",
+    "hypothesis": "UAV-B reports: low-frequency vibration detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at dock area.",
+    "hypothesis": "UAV-B reports: abandoned buildings nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Highland B.",
+    "hypothesis": "UAV-B reports: tire tracks on the ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is heavy rain.",
+    "hypothesis": "UAV-B reports: abandoned buildings nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is sandstorm.",
+    "hypothesis": "UAV-B reports: frequency-hopping communication in use.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 4 engineering support vehicle spotted.",
+    "hypothesis": "UAV-B reports: field medical team detected behind the radar station.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at north side of the valley.",
+    "hypothesis": "UAV-B reports: muddy ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: a large number of supply convoy spotted.",
+    "hypothesis": "UAV-B reports: reconnaissance drone detected behind the air defense missile system.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is clear, good visibility.",
+    "hypothesis": "UAV-B reports: weather is thunderstorm, very poor visibility.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the communication base station has been no signs of life.",
+    "hypothesis": "UAV-B reports: the communication base station is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 1 air defense missile system spotted.",
+    "hypothesis": "UAV-B reports: engineering support vehicle detected behind the drone.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at northern plain.",
+    "hypothesis": "UAV-B reports: weak heat signature.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at north side of the valley.",
+    "hypothesis": "UAV-B reports: target is located at Highland Z.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 20:10.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 14:15.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is light breeze.",
+    "hypothesis": "UAV-B reports: frequency-hopping communication in use.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Ford C.",
+    "hypothesis": "UAV-B reports: target is located at canyon exit.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at canyon exit.",
+    "hypothesis": "UAV-B reports: bird swarm interference detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is light breeze, good visibility.",
+    "hypothesis": "UAV-B reports: weather is heavy rain, very poor visibility.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 23:50.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 19:30.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at eastern ridge.",
+    "hypothesis": "UAV-B reports: target is located at southern forest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is dense fog.",
+    "hypothesis": "UAV-B reports: fresh excavation marks.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the command post is moving west.",
+    "hypothesis": "UAV-B reports: the command post is moving east.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the light truck has been silenced.",
+    "hypothesis": "UAV-B reports: the light truck is still active.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at abandoned factory.",
+    "hypothesis": "UAV-B reports: frequency-hopping communication in use.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 22:00.",
+    "hypothesis": "UAV-B reports: intermittent communication signal.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at south side of reservoir dam.",
+    "hypothesis": "UAV-B reports: complex electromagnetic environment.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: a large number of air defense missile system spotted.",
+    "hypothesis": "UAV-B reports: drone swarm detected behind the self-propelled artillery.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 18:00.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 23:50.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the anti-tank missile position is moving west.",
+    "hypothesis": "UAV-B reports: the anti-tank missile position is moving northwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: multiple communication relay vehicle spotted.",
+    "hypothesis": "UAV-B reports: engineering support vehicle detected behind the supply convoy.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 22:00.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 14:15.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the supply convoy has been silenced.",
+    "hypothesis": "UAV-B reports: the supply convoy is still active.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the communication base station is moving southwest.",
+    "hypothesis": "UAV-B reports: the communication base station is moving east.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at south side of reservoir dam.",
+    "hypothesis": "UAV-B reports: target is located at near oil depot.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is clear.",
+    "hypothesis": "UAV-B reports: camouflage net detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 4 rocket artillery position spotted.",
+    "hypothesis": "UAV-B reports: reconnaissance drone detected behind the air defense missile system.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: a large number of infantry fighting vehicle spotted.",
+    "hypothesis": "UAV-B reports: reconnaissance drone detected behind the electronic warfare vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at canyon exit.",
+    "hypothesis": "UAV-B reports: target is located at western lowland.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 14:15.",
+    "hypothesis": "UAV-B reports: frequency-hopping communication in use.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the anti-tank missile position has been no signs of life.",
+    "hypothesis": "UAV-B reports: the anti-tank missile position is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the self-propelled artillery has been silenced.",
+    "hypothesis": "UAV-B reports: the self-propelled artillery is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 800m.",
+    "hypothesis": "UAV-B reports: target altitude is 100m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at eastern ridge.",
+    "hypothesis": "UAV-B reports: civilian activity nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 23:50.",
+    "hypothesis": "UAV-B reports: suspected sentry position to the north.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the command post is moving southwest.",
+    "hypothesis": "UAV-B reports: the command post is moving north.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at end of airport runway.",
+    "hypothesis": "UAV-B reports: southern bridge intact.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: no communication base station spotted.",
+    "hypothesis": "UAV-B reports: drone detected behind the communication relay vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the field medical team is moving southeast.",
+    "hypothesis": "UAV-B reports: the field medical team is moving northwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 1200m.",
+    "hypothesis": "UAV-B reports: target altitude is 500m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is dense fog.",
+    "hypothesis": "UAV-B reports: complex electromagnetic environment.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is thunderstorm.",
+    "hypothesis": "UAV-B reports: wind speed 15 knots.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 12:00.",
+    "hypothesis": "UAV-B reports: infrared flare residue detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 13:45.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 22:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 2 self-propelled artillery spotted.",
+    "hypothesis": "UAV-B reports: armored personnel carrier detected behind the field medical team.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the rocket artillery position is moving east.",
+    "hypothesis": "UAV-B reports: the rocket artillery position is moving west.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at north of substation.",
+    "hypothesis": "UAV-B reports: weak signal strength.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 23:50.",
+    "hypothesis": "UAV-B reports: camouflage net detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 1 supply convoy spotted.",
+    "hypothesis": "UAV-B reports: communication base station detected behind the armored command vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the self-propelled artillery has been destroyed.",
+    "hypothesis": "UAV-B reports: the self-propelled artillery is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at northern plain.",
+    "hypothesis": "UAV-B reports: target is located at north side of the valley.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is thunderstorm.",
+    "hypothesis": "UAV-B reports: temporary cover on the east side.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at near oil depot.",
+    "hypothesis": "UAV-B reports: frequency-hopping communication in use.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is sandstorm.",
+    "hypothesis": "UAV-B reports: camouflage net detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 20:10.",
+    "hypothesis": "UAV-B reports: temporary cover on the east side.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 19:30.",
+    "hypothesis": "UAV-B reports: GPS accuracy degraded.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the electronic warfare vehicle is moving northwest.",
+    "hypothesis": "UAV-B reports: the electronic warfare vehicle is moving southwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the drone swarm is moving west.",
+    "hypothesis": "UAV-B reports: the drone swarm is moving southeast.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is light breeze.",
+    "hypothesis": "UAV-B reports: muddy ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 3 electronic warfare vehicle spotted.",
+    "hypothesis": "UAV-B reports: drone detected behind the drone swarm.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 1200m.",
+    "hypothesis": "UAV-B reports: target altitude is 1000m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 18:00.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 22:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 3 communication base station spotted.",
+    "hypothesis": "UAV-B reports: rocket artillery position detected behind the rocket artillery position.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the reconnaissance drone is moving northwest.",
+    "hypothesis": "UAV-B reports: the reconnaissance drone is moving east.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 19:30.",
+    "hypothesis": "UAV-B reports: bird swarm interference detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 13:45.",
+    "hypothesis": "UAV-B reports: low-frequency vibration detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 10:30.",
+    "hypothesis": "UAV-B reports: tire tracks on the ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at dock area.",
+    "hypothesis": "UAV-B reports: target is located at Ford C.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 13:45.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 20:10.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 4 command post spotted.",
+    "hypothesis": "UAV-B reports: armored command vehicle detected behind the armored command vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the air defense missile system has been no signs of life.",
+    "hypothesis": "UAV-B reports: the air defense missile system is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is heavy fog.",
+    "hypothesis": "UAV-B reports: weak signal strength.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 100m.",
+    "hypothesis": "UAV-B reports: target altitude is 500m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: multiple drone swarm spotted.",
+    "hypothesis": "UAV-B reports: armored personnel carrier detected behind the command post.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: a large number of communication base station spotted.",
+    "hypothesis": "UAV-B reports: fuel supply truck detected behind the armored personnel carrier.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 2 armored personnel carrier spotted.",
+    "hypothesis": "UAV-B reports: engineering support vehicle detected behind the command post.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 06:00.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 18:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 1 supply convoy spotted.",
+    "hypothesis": "UAV-B reports: engineering support vehicle detected behind the communication relay vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the armored command vehicle has been destroyed.",
+    "hypothesis": "UAV-B reports: the armored command vehicle is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 1200m.",
+    "hypothesis": "UAV-B reports: target altitude is 2000m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Highland Z.",
+    "hypothesis": "UAV-B reports: target is located at western lowland.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is light breeze.",
+    "hypothesis": "UAV-B reports: fresh excavation marks.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the communication relay vehicle has been no signs of life.",
+    "hypothesis": "UAV-B reports: the communication relay vehicle is still active.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Ford C.",
+    "hypothesis": "UAV-B reports: camouflage net detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 4 radar station spotted.",
+    "hypothesis": "UAV-B reports: command post detected behind the light truck.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at tunnel entrance.",
+    "hypothesis": "UAV-B reports: target is located at Zone Y.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the armored command vehicle is moving southeast.",
+    "hypothesis": "UAV-B reports: the armored command vehicle is moving south.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Zone Y.",
+    "hypothesis": "UAV-B reports: target is located at dock area.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at canyon exit.",
+    "hypothesis": "UAV-B reports: target is located at north side of the valley.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at eastern ridge.",
+    "hypothesis": "UAV-B reports: target is located at hilltop observation post.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at north of substation.",
+    "hypothesis": "UAV-B reports: complex electromagnetic environment.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 1 infantry fighting vehicle spotted.",
+    "hypothesis": "UAV-B reports: communication base station detected behind the drone.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at north of substation.",
+    "hypothesis": "UAV-B reports: target is located at Highland Z.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the rocket artillery position has been silenced.",
+    "hypothesis": "UAV-B reports: the rocket artillery position is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at canyon exit.",
+    "hypothesis": "UAV-B reports: livestock activity in the area.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 13:45.",
+    "hypothesis": "UAV-B reports: abandoned buildings nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the communication relay vehicle is moving south.",
+    "hypothesis": "UAV-B reports: the communication relay vehicle is moving north.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the communication relay vehicle has been destroyed.",
+    "hypothesis": "UAV-B reports: the communication relay vehicle is still active.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the armored personnel carrier is moving southwest.",
+    "hypothesis": "UAV-B reports: the armored personnel carrier is moving northwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 14:15.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 08:20.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Village D.",
+    "hypothesis": "UAV-B reports: intermittent communication signal.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 20:10.",
+    "hypothesis": "UAV-B reports: bird swarm interference detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is clear, good visibility.",
+    "hypothesis": "UAV-B reports: weather is heavy fog, very poor visibility.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 4 reconnaissance drone spotted.",
+    "hypothesis": "UAV-B reports: air defense missile system detected behind the armored command vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the reconnaissance drone has been silenced.",
+    "hypothesis": "UAV-B reports: the reconnaissance drone is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at intersection of Road 3.",
+    "hypothesis": "UAV-B reports: low-frequency vibration detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 800m.",
+    "hypothesis": "UAV-B reports: target altitude is 1200m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: several drone swarm spotted.",
+    "hypothesis": "UAV-B reports: fuel supply truck detected behind the infantry fighting vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 500m.",
+    "hypothesis": "UAV-B reports: target altitude is 800m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Position A.",
+    "hypothesis": "UAV-B reports: temporary cover on the east side.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 500m.",
+    "hypothesis": "UAV-B reports: target altitude is 2000m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at dock area.",
+    "hypothesis": "UAV-B reports: target is located at near oil depot.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 1 rocket artillery position spotted.",
+    "hypothesis": "UAV-B reports: drone swarm detected behind the electronic warfare vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 5 armored personnel carrier spotted.",
+    "hypothesis": "UAV-B reports: rocket artillery position detected behind the rocket artillery position.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Village D.",
+    "hypothesis": "UAV-B reports: target is located at Highland Z.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the command post has been silenced.",
+    "hypothesis": "UAV-B reports: the command post is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at south side of reservoir dam.",
+    "hypothesis": "UAV-B reports: target is located at tunnel entrance.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Zone X.",
+    "hypothesis": "UAV-B reports: abandoned buildings nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 12:00.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 22:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 22:00.",
+    "hypothesis": "UAV-B reports: abandoned buildings nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the anti-tank missile position is moving west.",
+    "hypothesis": "UAV-B reports: the anti-tank missile position is moving southwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 18:00.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 06:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is thunderstorm.",
+    "hypothesis": "UAV-B reports: muddy ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 22:00.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 20:10.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the communication base station is moving west.",
+    "hypothesis": "UAV-B reports: the communication base station is moving southeast.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at north side of the valley.",
+    "hypothesis": "UAV-B reports: target is located at Highland B.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at canyon exit.",
+    "hypothesis": "UAV-B reports: weak signal strength.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 1 drone spotted.",
+    "hypothesis": "UAV-B reports: supply convoy detected behind the communication relay vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 06:00.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 23:50.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 10:30.",
+    "hypothesis": "UAV-B reports: low-frequency vibration detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the self-propelled artillery is moving southwest.",
+    "hypothesis": "UAV-B reports: the self-propelled artillery is moving northeast.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at southern forest.",
+    "hypothesis": "UAV-B reports: target is located at northern plain.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at canyon exit.",
+    "hypothesis": "UAV-B reports: target is located at Zone X.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at western lowland.",
+    "hypothesis": "UAV-B reports: target is located at north of substation.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 13:45.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 12:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the fuel supply truck has been silenced.",
+    "hypothesis": "UAV-B reports: the fuel supply truck is still active.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the light truck has been silenced.",
+    "hypothesis": "UAV-B reports: the light truck is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at hilltop observation post.",
+    "hypothesis": "UAV-B reports: target is located at southern forest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is dense fog.",
+    "hypothesis": "UAV-B reports: weak heat signature.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the command post is moving northeast.",
+    "hypothesis": "UAV-B reports: the command post is moving northwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at canyon exit.",
+    "hypothesis": "UAV-B reports: target is located at southern forest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 12:00.",
+    "hypothesis": "UAV-B reports: tire tracks on the ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 08:20.",
+    "hypothesis": "UAV-B reports: tire tracks on the ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 19:30.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 12:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is clear.",
+    "hypothesis": "UAV-B reports: tire tracks on the ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at eastern ridge.",
+    "hypothesis": "UAV-B reports: target is located at dock area.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the armored personnel carrier has been silenced.",
+    "hypothesis": "UAV-B reports: the armored personnel carrier is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at hilltop observation post.",
+    "hypothesis": "UAV-B reports: target is located at north of substation.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is sandstorm.",
+    "hypothesis": "UAV-B reports: bird swarm interference detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is sandstorm.",
+    "hypothesis": "UAV-B reports: wind speed 15 knots.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Zone Y.",
+    "hypothesis": "UAV-B reports: low-frequency vibration detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the armored command vehicle is moving southwest.",
+    "hypothesis": "UAV-B reports: the armored command vehicle is moving east.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Highland Z.",
+    "hypothesis": "UAV-B reports: southern bridge intact.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 12:00.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 20:10.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 08:20.",
+    "hypothesis": "UAV-B reports: temporary cover on the east side.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at north of substation.",
+    "hypothesis": "UAV-B reports: target is located at canyon exit.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the supply convoy is moving north.",
+    "hypothesis": "UAV-B reports: the supply convoy is moving southwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Position A.",
+    "hypothesis": "UAV-B reports: target is located at western lowland.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at west end of railway bridge.",
+    "hypothesis": "UAV-B reports: complex electromagnetic environment.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 12:00.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 08:20.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Ford C.",
+    "hypothesis": "UAV-B reports: bird swarm interference detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Zone X.",
+    "hypothesis": "UAV-B reports: suspected sentry position to the north.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 20:10.",
+    "hypothesis": "UAV-B reports: complex electromagnetic environment.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the field medical team has been silenced.",
+    "hypothesis": "UAV-B reports: the field medical team is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 3 infantry fighting vehicle spotted.",
+    "hypothesis": "UAV-B reports: command post detected behind the field medical team.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the reconnaissance drone is moving east.",
+    "hypothesis": "UAV-B reports: the reconnaissance drone is moving north.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the reconnaissance drone has been silenced.",
+    "hypothesis": "UAV-B reports: the reconnaissance drone is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 500m.",
+    "hypothesis": "UAV-B reports: target altitude is 1200m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the communication base station has been no signs of life.",
+    "hypothesis": "UAV-B reports: the communication base station is still active.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: multiple communication base station spotted.",
+    "hypothesis": "UAV-B reports: communication base station detected behind the drone swarm.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is heavy rain.",
+    "hypothesis": "UAV-B reports: civilian activity nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is light breeze.",
+    "hypothesis": "UAV-B reports: temporary cover on the east side.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the infantry fighting vehicle is moving northwest.",
+    "hypothesis": "UAV-B reports: the infantry fighting vehicle is moving southwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the supply convoy is moving northwest.",
+    "hypothesis": "UAV-B reports: the supply convoy is moving south.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at dock area.",
+    "hypothesis": "UAV-B reports: camouflage net detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the communication relay vehicle is moving northeast.",
+    "hypothesis": "UAV-B reports: the communication relay vehicle is moving east.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: a large number of engineering support vehicle spotted.",
+    "hypothesis": "UAV-B reports: infantry fighting vehicle detected behind the rocket artillery position.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 10:30.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 18:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at industrial park.",
+    "hypothesis": "UAV-B reports: weak heat signature.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Highland Z.",
+    "hypothesis": "UAV-B reports: target is located at Ford C.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at intersection of Road 3.",
+    "hypothesis": "UAV-B reports: frequency-hopping communication in use.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 200m.",
+    "hypothesis": "UAV-B reports: target altitude is 1000m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at hilltop observation post.",
+    "hypothesis": "UAV-B reports: civilian activity nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 14:15.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 13:45.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the radar station is moving north.",
+    "hypothesis": "UAV-B reports: the radar station is moving southwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Ford C.",
+    "hypothesis": "UAV-B reports: fresh excavation marks.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at end of airport runway.",
+    "hypothesis": "UAV-B reports: GPS accuracy degraded.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the supply convoy has been silenced.",
+    "hypothesis": "UAV-B reports: the supply convoy is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 22:00.",
+    "hypothesis": "UAV-B reports: tire tracks on the ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 19:30.",
+    "hypothesis": "UAV-B reports: infrared flare residue detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: no light truck spotted.",
+    "hypothesis": "UAV-B reports: communication base station detected behind the communication base station.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at western lowland.",
+    "hypothesis": "UAV-B reports: GPS accuracy degraded.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the air defense missile system is moving southwest.",
+    "hypothesis": "UAV-B reports: the air defense missile system is moving north.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the communication relay vehicle has been silenced.",
+    "hypothesis": "UAV-B reports: the communication relay vehicle is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at tunnel entrance.",
+    "hypothesis": "UAV-B reports: target is located at dock area.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: a large number of command post spotted.",
+    "hypothesis": "UAV-B reports: engineering support vehicle detected behind the armored personnel carrier.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 5 engineering support vehicle spotted.",
+    "hypothesis": "UAV-B reports: communication relay vehicle detected behind the armored personnel carrier.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at eastern ridge.",
+    "hypothesis": "UAV-B reports: target is located at near oil depot.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is light breeze, good visibility.",
+    "hypothesis": "UAV-B reports: weather is heavy fog, very poor visibility.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: a large number of command post spotted.",
+    "hypothesis": "UAV-B reports: drone swarm detected behind the reconnaissance drone.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 16:40.",
+    "hypothesis": "UAV-B reports: suspected sentry position to the north.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the anti-tank missile position has been destroyed.",
+    "hypothesis": "UAV-B reports: the anti-tank missile position is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at north side of the valley.",
+    "hypothesis": "UAV-B reports: target is located at abandoned factory.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the reconnaissance drone is moving southeast.",
+    "hypothesis": "UAV-B reports: the reconnaissance drone is moving northeast.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 16:40.",
+    "hypothesis": "UAV-B reports: bird swarm interference detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is dense fog.",
+    "hypothesis": "UAV-B reports: frequency-hopping communication in use.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 13:45.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 06:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 13:45.",
+    "hypothesis": "UAV-B reports: wind speed 15 knots.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at north of substation.",
+    "hypothesis": "UAV-B reports: muddy ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Highland B.",
+    "hypothesis": "UAV-B reports: muddy ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the anti-tank missile position has been destroyed.",
+    "hypothesis": "UAV-B reports: the anti-tank missile position is still active.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 23:50.",
+    "hypothesis": "UAV-B reports: weak signal strength.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the communication base station is moving south.",
+    "hypothesis": "UAV-B reports: the communication base station is moving southeast.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 10:30.",
+    "hypothesis": "UAV-B reports: suspected sentry position to the north.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 10:30.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 22:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 16:40.",
+    "hypothesis": "UAV-B reports: wind speed 15 knots.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: a large number of infantry fighting vehicle spotted.",
+    "hypothesis": "UAV-B reports: armored personnel carrier detected behind the light truck.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at eastern ridge.",
+    "hypothesis": "UAV-B reports: complex electromagnetic environment.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 12:00.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 13:45.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 3 electronic warfare vehicle spotted.",
+    "hypothesis": "UAV-B reports: rocket artillery position detected behind the command post.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Highland B.",
+    "hypothesis": "UAV-B reports: abandoned buildings nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is dense fog.",
+    "hypothesis": "UAV-B reports: infrared flare residue detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 2 command post spotted.",
+    "hypothesis": "UAV-B reports: armored personnel carrier detected behind the fuel supply truck.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 16:40.",
+    "hypothesis": "UAV-B reports: tire tracks on the ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at western lowland.",
+    "hypothesis": "UAV-B reports: abandoned buildings nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 5 communication relay vehicle spotted.",
+    "hypothesis": "UAV-B reports: rocket artillery position detected behind the light truck.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 19:30.",
+    "hypothesis": "UAV-B reports: abandoned buildings nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Zone X.",
+    "hypothesis": "UAV-B reports: southern bridge intact.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the communication relay vehicle has been silenced.",
+    "hypothesis": "UAV-B reports: the communication relay vehicle is still active.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at northern plain.",
+    "hypothesis": "UAV-B reports: wind speed 15 knots.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the communication relay vehicle is moving southeast.",
+    "hypothesis": "UAV-B reports: the communication relay vehicle is moving northeast.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: no drone spotted.",
+    "hypothesis": "UAV-B reports: anti-tank missile position detected behind the command post.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Position A.",
+    "hypothesis": "UAV-B reports: camouflage net detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the self-propelled artillery is moving southwest.",
+    "hypothesis": "UAV-B reports: the self-propelled artillery is moving southeast.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is heavy fog.",
+    "hypothesis": "UAV-B reports: low-frequency vibration detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Position A.",
+    "hypothesis": "UAV-B reports: target is located at Highland Z.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at western lowland.",
+    "hypothesis": "UAV-B reports: target is located at Highland B.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 18:00.",
+    "hypothesis": "UAV-B reports: complex electromagnetic environment.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at southern forest.",
+    "hypothesis": "UAV-B reports: fresh excavation marks.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 19:30.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 20:10.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is clear, good visibility.",
+    "hypothesis": "UAV-B reports: weather is dense fog, very poor visibility.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is heavy rain.",
+    "hypothesis": "UAV-B reports: tire tracks on the ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the supply convoy is moving south.",
+    "hypothesis": "UAV-B reports: the supply convoy is moving northwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is thunderstorm.",
+    "hypothesis": "UAV-B reports: bird swarm interference detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 1 communication relay vehicle spotted.",
+    "hypothesis": "UAV-B reports: communication base station detected behind the supply convoy.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Zone Y.",
+    "hypothesis": "UAV-B reports: target is located at abandoned factory.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 22:00.",
+    "hypothesis": "UAV-B reports: suspected sentry position to the north.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 4 drone swarm spotted.",
+    "hypothesis": "UAV-B reports: electronic warfare vehicle detected behind the drone.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at near oil depot.",
+    "hypothesis": "UAV-B reports: muddy ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Highland B.",
+    "hypothesis": "UAV-B reports: target is located at end of airport runway.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Position A.",
+    "hypothesis": "UAV-B reports: target is located at north of substation.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 3 communication relay vehicle spotted.",
+    "hypothesis": "UAV-B reports: electronic warfare vehicle detected behind the command post.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 14:15.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 12:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is partly cloudy.",
+    "hypothesis": "UAV-B reports: fresh excavation marks.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 08:20.",
+    "hypothesis": "UAV-B reports: camouflage net detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the anti-tank missile position is moving southwest.",
+    "hypothesis": "UAV-B reports: the anti-tank missile position is moving north.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Zone X.",
+    "hypothesis": "UAV-B reports: frequency-hopping communication in use.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 4 field medical team spotted.",
+    "hypothesis": "UAV-B reports: infantry fighting vehicle detected behind the drone swarm.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is light breeze.",
+    "hypothesis": "UAV-B reports: wind speed 15 knots.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 20:10.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 23:50.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is partly cloudy.",
+    "hypothesis": "UAV-B reports: complex electromagnetic environment.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: a large number of electronic warfare vehicle spotted.",
+    "hypothesis": "UAV-B reports: infantry fighting vehicle detected behind the rocket artillery position.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Zone Y.",
+    "hypothesis": "UAV-B reports: abandoned buildings nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is heavy rain.",
+    "hypothesis": "UAV-B reports: livestock activity in the area.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 2 engineering support vehicle spotted.",
+    "hypothesis": "UAV-B reports: fuel supply truck detected behind the air defense missile system.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Village D.",
+    "hypothesis": "UAV-B reports: weak heat signature.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the communication relay vehicle has been destroyed.",
+    "hypothesis": "UAV-B reports: the communication relay vehicle is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at north side of the valley.",
+    "hypothesis": "UAV-B reports: temporary cover on the east side.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 06:00.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 08:20.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at hilltop observation post.",
+    "hypothesis": "UAV-B reports: target is located at Zone Y.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the radar station is moving west.",
+    "hypothesis": "UAV-B reports: the radar station is moving southwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 2 communication relay vehicle spotted.",
+    "hypothesis": "UAV-B reports: radar station detected behind the communication base station.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 06:00.",
+    "hypothesis": "UAV-B reports: fresh excavation marks.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the command post has been silenced.",
+    "hypothesis": "UAV-B reports: the command post is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is clear.",
+    "hypothesis": "UAV-B reports: civilian activity nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 18:00.",
+    "hypothesis": "UAV-B reports: fresh excavation marks.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the field medical team is moving northwest.",
+    "hypothesis": "UAV-B reports: the field medical team is moving southwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the rocket artillery position is moving northwest.",
+    "hypothesis": "UAV-B reports: the rocket artillery position is moving southeast.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 20:10.",
+    "hypothesis": "UAV-B reports: infrared flare residue detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at abandoned factory.",
+    "hypothesis": "UAV-B reports: GPS accuracy degraded.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at northern plain.",
+    "hypothesis": "UAV-B reports: muddy ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is heavy rain.",
+    "hypothesis": "UAV-B reports: camouflage net detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at western lowland.",
+    "hypothesis": "UAV-B reports: weak signal strength.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: no communication base station spotted.",
+    "hypothesis": "UAV-B reports: command post detected behind the air defense missile system.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 200m.",
+    "hypothesis": "UAV-B reports: target altitude is 300m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at intersection of Road 3.",
+    "hypothesis": "UAV-B reports: tire tracks on the ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 500m.",
+    "hypothesis": "UAV-B reports: target altitude is 300m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is clear.",
+    "hypothesis": "UAV-B reports: wind speed 15 knots.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the communication relay vehicle is moving northwest.",
+    "hypothesis": "UAV-B reports: the communication relay vehicle is moving west.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 10:30.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 13:45.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at eastern ridge.",
+    "hypothesis": "UAV-B reports: frequency-hopping communication in use.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the drone is moving north.",
+    "hypothesis": "UAV-B reports: the drone is moving east.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is clear, good visibility.",
+    "hypothesis": "UAV-B reports: weather is heavy rain, very poor visibility.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Ford C.",
+    "hypothesis": "UAV-B reports: target is located at dock area.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 4 anti-tank missile position spotted.",
+    "hypothesis": "UAV-B reports: electronic warfare vehicle detected behind the reconnaissance drone.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the armored personnel carrier is moving northwest.",
+    "hypothesis": "UAV-B reports: the armored personnel carrier is moving east.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: no supply convoy spotted.",
+    "hypothesis": "UAV-B reports: supply convoy detected behind the radar station.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 13:45.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 10:30.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the reconnaissance drone is moving northwest.",
+    "hypothesis": "UAV-B reports: the reconnaissance drone is moving southeast.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the supply convoy has been destroyed.",
+    "hypothesis": "UAV-B reports: the supply convoy is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 500m.",
+    "hypothesis": "UAV-B reports: target altitude is 1000m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the communication base station is moving southeast.",
+    "hypothesis": "UAV-B reports: the communication base station is moving north.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 1000m.",
+    "hypothesis": "UAV-B reports: target altitude is 1500m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: no electronic warfare vehicle spotted.",
+    "hypothesis": "UAV-B reports: engineering support vehicle detected behind the rocket artillery position.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 18:00.",
+    "hypothesis": "UAV-B reports: muddy ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at dock area.",
+    "hypothesis": "UAV-B reports: wind speed 15 knots.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the self-propelled artillery is moving west.",
+    "hypothesis": "UAV-B reports: the self-propelled artillery is moving north.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the command post has been destroyed.",
+    "hypothesis": "UAV-B reports: the command post is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 22:00.",
+    "hypothesis": "UAV-B reports: wind speed 15 knots.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the rocket artillery position has been silenced.",
+    "hypothesis": "UAV-B reports: the rocket artillery position is still active.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at abandoned factory.",
+    "hypothesis": "UAV-B reports: target is located at north of substation.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 5 anti-tank missile position spotted.",
+    "hypothesis": "UAV-B reports: light truck detected behind the drone.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 1 reconnaissance drone spotted.",
+    "hypothesis": "UAV-B reports: command post detected behind the communication base station.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Village D.",
+    "hypothesis": "UAV-B reports: target is located at western lowland.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Highland Z.",
+    "hypothesis": "UAV-B reports: target is located at southern forest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at abandoned factory.",
+    "hypothesis": "UAV-B reports: bird swarm interference detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 5 engineering support vehicle spotted.",
+    "hypothesis": "UAV-B reports: anti-tank missile position detected behind the communication base station.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at near oil depot.",
+    "hypothesis": "UAV-B reports: weak heat signature.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: no armored command vehicle spotted.",
+    "hypothesis": "UAV-B reports: drone swarm detected behind the armored personnel carrier.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at south side of reservoir dam.",
+    "hypothesis": "UAV-B reports: target is located at northern plain.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Zone X.",
+    "hypothesis": "UAV-B reports: civilian activity nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the reconnaissance drone has been no signs of life.",
+    "hypothesis": "UAV-B reports: the reconnaissance drone is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the fuel supply truck is moving northwest.",
+    "hypothesis": "UAV-B reports: the fuel supply truck is moving south.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 12:00.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 23:50.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 300m.",
+    "hypothesis": "UAV-B reports: target altitude is 800m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Zone Y.",
+    "hypothesis": "UAV-B reports: target is located at Village D.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 19:30.",
+    "hypothesis": "UAV-B reports: tire tracks on the ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at end of airport runway.",
+    "hypothesis": "UAV-B reports: target is located at south side of reservoir dam.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at west end of railway bridge.",
+    "hypothesis": "UAV-B reports: target is located at northern plain.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at north side of the valley.",
+    "hypothesis": "UAV-B reports: target is located at Position A.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the supply convoy is moving south.",
+    "hypothesis": "UAV-B reports: the supply convoy is moving east.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 12:00.",
+    "hypothesis": "UAV-B reports: complex electromagnetic environment.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 2 infantry fighting vehicle spotted.",
+    "hypothesis": "UAV-B reports: self-propelled artillery detected behind the air defense missile system.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 2000m.",
+    "hypothesis": "UAV-B reports: target altitude is 1000m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 10:30.",
+    "hypothesis": "UAV-B reports: muddy ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: multiple reconnaissance drone spotted.",
+    "hypothesis": "UAV-B reports: infantry fighting vehicle detected behind the infantry fighting vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at near oil depot.",
+    "hypothesis": "UAV-B reports: civilian activity nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 20:10.",
+    "hypothesis": "UAV-B reports: camouflage net detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the rocket artillery position is moving southeast.",
+    "hypothesis": "UAV-B reports: the rocket artillery position is moving southwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at western lowland.",
+    "hypothesis": "UAV-B reports: target is located at Village D.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 20:10.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 18:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Position A.",
+    "hypothesis": "UAV-B reports: livestock activity in the area.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the engineering support vehicle has been destroyed.",
+    "hypothesis": "UAV-B reports: the engineering support vehicle is still active.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 18:00.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 19:30.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at canyon exit.",
+    "hypothesis": "UAV-B reports: target is located at near oil depot.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at west end of railway bridge.",
+    "hypothesis": "UAV-B reports: target is located at north of substation.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Zone Y.",
+    "hypothesis": "UAV-B reports: weak heat signature.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 18:00.",
+    "hypothesis": "UAV-B reports: suspected sentry position to the north.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 1000m.",
+    "hypothesis": "UAV-B reports: target altitude is 2000m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is partly cloudy, good visibility.",
+    "hypothesis": "UAV-B reports: weather is heavy fog, very poor visibility.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at hilltop observation post.",
+    "hypothesis": "UAV-B reports: target is located at canyon exit.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 1500m.",
+    "hypothesis": "UAV-B reports: target altitude is 200m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Ford C.",
+    "hypothesis": "UAV-B reports: civilian activity nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 300m.",
+    "hypothesis": "UAV-B reports: target altitude is 1200m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 1500m.",
+    "hypothesis": "UAV-B reports: target altitude is 800m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 12:00.",
+    "hypothesis": "UAV-B reports: civilian activity nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: a large number of anti-tank missile position spotted.",
+    "hypothesis": "UAV-B reports: air defense missile system detected behind the command post.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the self-propelled artillery is moving south.",
+    "hypothesis": "UAV-B reports: the self-propelled artillery is moving northwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the rocket artillery position is moving northeast.",
+    "hypothesis": "UAV-B reports: the rocket artillery position is moving north.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 06:00.",
+    "hypothesis": "UAV-B reports: livestock activity in the area.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is heavy rain.",
+    "hypothesis": "UAV-B reports: complex electromagnetic environment.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is heavy fog.",
+    "hypothesis": "UAV-B reports: fresh excavation marks.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 10:30.",
+    "hypothesis": "UAV-B reports: camouflage net detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 14:15.",
+    "hypothesis": "UAV-B reports: intermittent communication signal.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: no rocket artillery position spotted.",
+    "hypothesis": "UAV-B reports: self-propelled artillery detected behind the air defense missile system.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 3 rocket artillery position spotted.",
+    "hypothesis": "UAV-B reports: air defense missile system detected behind the self-propelled artillery.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: multiple fuel supply truck spotted.",
+    "hypothesis": "UAV-B reports: armored personnel carrier detected behind the drone swarm.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the field medical team has been destroyed.",
+    "hypothesis": "UAV-B reports: the field medical team is still active.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 3 air defense missile system spotted.",
+    "hypothesis": "UAV-B reports: anti-tank missile position detected behind the command post.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is thunderstorm.",
+    "hypothesis": "UAV-B reports: abandoned buildings nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 20:10.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 13:45.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 1000m.",
+    "hypothesis": "UAV-B reports: target altitude is 500m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: multiple field medical team spotted.",
+    "hypothesis": "UAV-B reports: electronic warfare vehicle detected behind the engineering support vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Highland Z.",
+    "hypothesis": "UAV-B reports: weak signal strength.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at near oil depot.",
+    "hypothesis": "UAV-B reports: target is located at Ford C.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the rocket artillery position has been destroyed.",
+    "hypothesis": "UAV-B reports: the rocket artillery position is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the air defense missile system has been silenced.",
+    "hypothesis": "UAV-B reports: the air defense missile system is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the armored personnel carrier is moving east.",
+    "hypothesis": "UAV-B reports: the armored personnel carrier is moving north.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the fuel supply truck is moving east.",
+    "hypothesis": "UAV-B reports: the fuel supply truck is moving northwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at south side of reservoir dam.",
+    "hypothesis": "UAV-B reports: target is located at end of airport runway.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Highland B.",
+    "hypothesis": "UAV-B reports: target is located at eastern ridge.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: no fuel supply truck spotted.",
+    "hypothesis": "UAV-B reports: fuel supply truck detected behind the electronic warfare vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: no electronic warfare vehicle spotted.",
+    "hypothesis": "UAV-B reports: reconnaissance drone detected behind the supply convoy.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the self-propelled artillery has been destroyed.",
+    "hypothesis": "UAV-B reports: the self-propelled artillery is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is clear.",
+    "hypothesis": "UAV-B reports: suspected sentry position to the north.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the reconnaissance drone is moving west.",
+    "hypothesis": "UAV-B reports: the reconnaissance drone is moving east.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the infantry fighting vehicle has been destroyed.",
+    "hypothesis": "UAV-B reports: the infantry fighting vehicle is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the electronic warfare vehicle has been no signs of life.",
+    "hypothesis": "UAV-B reports: the electronic warfare vehicle is still active.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 14:15.",
+    "hypothesis": "UAV-B reports: muddy ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the drone swarm has been no signs of life.",
+    "hypothesis": "UAV-B reports: the drone swarm is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at intersection of Road 3.",
+    "hypothesis": "UAV-B reports: weak signal strength.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is heavy fog.",
+    "hypothesis": "UAV-B reports: intermittent communication signal.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 06:00.",
+    "hypothesis": "UAV-B reports: suspected sentry position to the north.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: a large number of communication relay vehicle spotted.",
+    "hypothesis": "UAV-B reports: communication base station detected behind the drone.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: several supply convoy spotted.",
+    "hypothesis": "UAV-B reports: command post detected behind the field medical team.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at north of substation.",
+    "hypothesis": "UAV-B reports: tire tracks on the ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at end of airport runway.",
+    "hypothesis": "UAV-B reports: target is located at Zone Y.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 23:50.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 22:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is thunderstorm.",
+    "hypothesis": "UAV-B reports: camouflage net detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 16:40.",
+    "hypothesis": "UAV-B reports: fresh excavation marks.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the communication relay vehicle has been destroyed.",
+    "hypothesis": "UAV-B reports: the communication relay vehicle is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at southern forest.",
+    "hypothesis": "UAV-B reports: frequency-hopping communication in use.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 200m.",
+    "hypothesis": "UAV-B reports: target altitude is 1200m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the armored command vehicle has been no signs of life.",
+    "hypothesis": "UAV-B reports: the armored command vehicle is still active.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is clear, good visibility.",
+    "hypothesis": "UAV-B reports: weather is sandstorm, very poor visibility.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 16:40.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 08:20.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is light breeze.",
+    "hypothesis": "UAV-B reports: bird swarm interference detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 19:30.",
+    "hypothesis": "UAV-B reports: complex electromagnetic environment.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the engineering support vehicle is moving north.",
+    "hypothesis": "UAV-B reports: the engineering support vehicle is moving northwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 5 communication base station spotted.",
+    "hypothesis": "UAV-B reports: armored personnel carrier detected behind the infantry fighting vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at south side of reservoir dam.",
+    "hypothesis": "UAV-B reports: temporary cover on the east side.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 1500m.",
+    "hypothesis": "UAV-B reports: target altitude is 1200m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is heavy rain.",
+    "hypothesis": "UAV-B reports: southern bridge intact.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is sandstorm.",
+    "hypothesis": "UAV-B reports: fresh excavation marks.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the drone is moving west.",
+    "hypothesis": "UAV-B reports: the drone is moving southwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 2000m.",
+    "hypothesis": "UAV-B reports: target altitude is 1200m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the armored command vehicle has been no signs of life.",
+    "hypothesis": "UAV-B reports: the armored command vehicle is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is light breeze.",
+    "hypothesis": "UAV-B reports: tire tracks on the ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 2 communication base station spotted.",
+    "hypothesis": "UAV-B reports: armored command vehicle detected behind the air defense missile system.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at north of substation.",
+    "hypothesis": "UAV-B reports: target is located at Highland B.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: several communication base station spotted.",
+    "hypothesis": "UAV-B reports: drone detected behind the command post.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 22:00.",
+    "hypothesis": "UAV-B reports: camouflage net detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Ford C.",
+    "hypothesis": "UAV-B reports: target is located at north side of the valley.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 13:45.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 18:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the armored command vehicle is moving northwest.",
+    "hypothesis": "UAV-B reports: the armored command vehicle is moving south.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the communication base station has been destroyed.",
+    "hypothesis": "UAV-B reports: the communication base station is still active.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at western lowland.",
+    "hypothesis": "UAV-B reports: low-frequency vibration detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 1500m.",
+    "hypothesis": "UAV-B reports: target altitude is 2000m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is partly cloudy, good visibility.",
+    "hypothesis": "UAV-B reports: weather is sandstorm, very poor visibility.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the supply convoy is moving south.",
+    "hypothesis": "UAV-B reports: the supply convoy is moving northeast.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is partly cloudy.",
+    "hypothesis": "UAV-B reports: intermittent communication signal.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 16:40.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 14:15.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: multiple self-propelled artillery spotted.",
+    "hypothesis": "UAV-B reports: self-propelled artillery detected behind the communication relay vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 08:20.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 18:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 22:00.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 23:50.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: a large number of engineering support vehicle spotted.",
+    "hypothesis": "UAV-B reports: armored command vehicle detected behind the radar station.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is heavy rain.",
+    "hypothesis": "UAV-B reports: temporary cover on the east side.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: several reconnaissance drone spotted.",
+    "hypothesis": "UAV-B reports: command post detected behind the communication relay vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the drone swarm has been destroyed.",
+    "hypothesis": "UAV-B reports: the drone swarm is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 13:45.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 16:40.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Village D.",
+    "hypothesis": "UAV-B reports: target is located at southern forest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the command post is moving south.",
+    "hypothesis": "UAV-B reports: the command post is moving northeast.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 14:15.",
+    "hypothesis": "UAV-B reports: southern bridge intact.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the armored personnel carrier is moving northeast.",
+    "hypothesis": "UAV-B reports: the armored personnel carrier is moving southwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the field medical team is moving south.",
+    "hypothesis": "UAV-B reports: the field medical team is moving east.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 10:30.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 19:30.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Ford C.",
+    "hypothesis": "UAV-B reports: target is located at west end of railway bridge.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 13:45.",
+    "hypothesis": "UAV-B reports: civilian activity nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is light breeze, good visibility.",
+    "hypothesis": "UAV-B reports: weather is dense fog, very poor visibility.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at southern forest.",
+    "hypothesis": "UAV-B reports: GPS accuracy degraded.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Highland B.",
+    "hypothesis": "UAV-B reports: target is located at northern plain.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 13:45.",
+    "hypothesis": "UAV-B reports: fresh excavation marks.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 5 armored personnel carrier spotted.",
+    "hypothesis": "UAV-B reports: infantry fighting vehicle detected behind the self-propelled artillery.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 4 engineering support vehicle spotted.",
+    "hypothesis": "UAV-B reports: drone detected behind the fuel supply truck.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 5 electronic warfare vehicle spotted.",
+    "hypothesis": "UAV-B reports: radar station detected behind the command post.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at end of airport runway.",
+    "hypothesis": "UAV-B reports: target is located at Highland B.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Village D.",
+    "hypothesis": "UAV-B reports: target is located at Position A.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is thunderstorm.",
+    "hypothesis": "UAV-B reports: fresh excavation marks.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is heavy fog.",
+    "hypothesis": "UAV-B reports: abandoned buildings nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is heavy fog.",
+    "hypothesis": "UAV-B reports: bird swarm interference detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the radar station is moving west.",
+    "hypothesis": "UAV-B reports: the radar station is moving east.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: no fuel supply truck spotted.",
+    "hypothesis": "UAV-B reports: air defense missile system detected behind the communication base station.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 1 anti-tank missile position spotted.",
+    "hypothesis": "UAV-B reports: drone swarm detected behind the radar station.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: multiple armored command vehicle spotted.",
+    "hypothesis": "UAV-B reports: drone detected behind the anti-tank missile position.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 19:30.",
+    "hypothesis": "UAV-B reports: civilian activity nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the armored personnel carrier has been no signs of life.",
+    "hypothesis": "UAV-B reports: the armored personnel carrier is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is partly cloudy.",
+    "hypothesis": "UAV-B reports: abandoned buildings nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the fuel supply truck has been no signs of life.",
+    "hypothesis": "UAV-B reports: the fuel supply truck is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the armored personnel carrier is moving north.",
+    "hypothesis": "UAV-B reports: the armored personnel carrier is moving west.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at near oil depot.",
+    "hypothesis": "UAV-B reports: target is located at end of airport runway.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 1000m.",
+    "hypothesis": "UAV-B reports: target altitude is 1200m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 200m.",
+    "hypothesis": "UAV-B reports: target altitude is 1500m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the radar station is moving south.",
+    "hypothesis": "UAV-B reports: the radar station is moving southeast.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 23:50.",
+    "hypothesis": "UAV-B reports: bird swarm interference detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the armored command vehicle is moving east.",
+    "hypothesis": "UAV-B reports: the armored command vehicle is moving northwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at northern plain.",
+    "hypothesis": "UAV-B reports: target is located at hilltop observation post.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 13:45.",
+    "hypothesis": "UAV-B reports: suspected sentry position to the north.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Highland Z.",
+    "hypothesis": "UAV-B reports: complex electromagnetic environment.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Highland Z.",
+    "hypothesis": "UAV-B reports: target is located at west end of railway bridge.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is partly cloudy.",
+    "hypothesis": "UAV-B reports: civilian activity nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is sandstorm.",
+    "hypothesis": "UAV-B reports: muddy ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the field medical team is moving south.",
+    "hypothesis": "UAV-B reports: the field medical team is moving southwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 10:30.",
+    "hypothesis": "UAV-B reports: GPS accuracy degraded.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 23:50.",
+    "hypothesis": "UAV-B reports: wind speed 15 knots.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is partly cloudy.",
+    "hypothesis": "UAV-B reports: frequency-hopping communication in use.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 16:40.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 19:30.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 10:30.",
+    "hypothesis": "UAV-B reports: southern bridge intact.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at tunnel entrance.",
+    "hypothesis": "UAV-B reports: weak signal strength.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 5 rocket artillery position spotted.",
+    "hypothesis": "UAV-B reports: radar station detected behind the command post.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 06:00.",
+    "hypothesis": "UAV-B reports: complex electromagnetic environment.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 200m.",
+    "hypothesis": "UAV-B reports: target altitude is 2000m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the engineering support vehicle has been no signs of life.",
+    "hypothesis": "UAV-B reports: the engineering support vehicle is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at hilltop observation post.",
+    "hypothesis": "UAV-B reports: target is located at Highland Z.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Position A.",
+    "hypothesis": "UAV-B reports: target is located at canyon exit.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is dense fog.",
+    "hypothesis": "UAV-B reports: tire tracks on the ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 16:40.",
+    "hypothesis": "UAV-B reports: frequency-hopping communication in use.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is dense fog.",
+    "hypothesis": "UAV-B reports: camouflage net detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at industrial park.",
+    "hypothesis": "UAV-B reports: target is located at north side of the valley.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: no drone swarm spotted.",
+    "hypothesis": "UAV-B reports: drone swarm detected behind the self-propelled artillery.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is partly cloudy.",
+    "hypothesis": "UAV-B reports: muddy ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is dense fog.",
+    "hypothesis": "UAV-B reports: muddy ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the radar station has been silenced.",
+    "hypothesis": "UAV-B reports: the radar station is still active.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 23:50.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 08:20.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at eastern ridge.",
+    "hypothesis": "UAV-B reports: tire tracks on the ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 14:15.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 20:10.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 19:30.",
+    "hypothesis": "UAV-B reports: suspected sentry position to the north.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 08:20.",
+    "hypothesis": "UAV-B reports: southern bridge intact.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the air defense missile system has been silenced.",
+    "hypothesis": "UAV-B reports: the air defense missile system is still active.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 18:00.",
+    "hypothesis": "UAV-B reports: temporary cover on the east side.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at northern plain.",
+    "hypothesis": "UAV-B reports: target is located at abandoned factory.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at northern plain.",
+    "hypothesis": "UAV-B reports: bird swarm interference detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 4 radar station spotted.",
+    "hypothesis": "UAV-B reports: anti-tank missile position detected behind the self-propelled artillery.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 10:30.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 14:15.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the rocket artillery position is moving east.",
+    "hypothesis": "UAV-B reports: the rocket artillery position is moving south.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the drone swarm has been destroyed.",
+    "hypothesis": "UAV-B reports: the drone swarm is still active.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the light truck is moving south.",
+    "hypothesis": "UAV-B reports: the light truck is moving west.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is heavy fog.",
+    "hypothesis": "UAV-B reports: tire tracks on the ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is thunderstorm.",
+    "hypothesis": "UAV-B reports: intermittent communication signal.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 19:30.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 14:15.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Zone Y.",
+    "hypothesis": "UAV-B reports: livestock activity in the area.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 100m.",
+    "hypothesis": "UAV-B reports: target altitude is 800m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the drone has been silenced.",
+    "hypothesis": "UAV-B reports: the drone is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is heavy rain.",
+    "hypothesis": "UAV-B reports: intermittent communication signal.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 2000m.",
+    "hypothesis": "UAV-B reports: target altitude is 800m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at tunnel entrance.",
+    "hypothesis": "UAV-B reports: target is located at end of airport runway.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 23:50.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 18:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 3 radar station spotted.",
+    "hypothesis": "UAV-B reports: command post detected behind the fuel supply truck.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at tunnel entrance.",
+    "hypothesis": "UAV-B reports: target is located at industrial park.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 13:45.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 19:30.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the engineering support vehicle is moving southeast.",
+    "hypothesis": "UAV-B reports: the engineering support vehicle is moving east.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: a large number of communication base station spotted.",
+    "hypothesis": "UAV-B reports: drone swarm detected behind the air defense missile system.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at eastern ridge.",
+    "hypothesis": "UAV-B reports: fresh excavation marks.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at hilltop observation post.",
+    "hypothesis": "UAV-B reports: target is located at tunnel entrance.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is light breeze.",
+    "hypothesis": "UAV-B reports: livestock activity in the area.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: no rocket artillery position spotted.",
+    "hypothesis": "UAV-B reports: electronic warfare vehicle detected behind the light truck.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: several fuel supply truck spotted.",
+    "hypothesis": "UAV-B reports: supply convoy detected behind the electronic warfare vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: multiple communication base station spotted.",
+    "hypothesis": "UAV-B reports: drone swarm detected behind the armored command vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the fuel supply truck is moving south.",
+    "hypothesis": "UAV-B reports: the fuel supply truck is moving north.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the drone swarm has been destroyed.",
+    "hypothesis": "UAV-B reports: the drone swarm is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Highland Z.",
+    "hypothesis": "UAV-B reports: target is located at Village D.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 100m.",
+    "hypothesis": "UAV-B reports: target altitude is 200m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Zone X.",
+    "hypothesis": "UAV-B reports: complex electromagnetic environment.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 23:50.",
+    "hypothesis": "UAV-B reports: civilian activity nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 1500m.",
+    "hypothesis": "UAV-B reports: target altitude is 1000m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 3 anti-tank missile position spotted.",
+    "hypothesis": "UAV-B reports: armored command vehicle detected behind the air defense missile system.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 19:30.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 16:40.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 1000m.",
+    "hypothesis": "UAV-B reports: target altitude is 300m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at southern forest.",
+    "hypothesis": "UAV-B reports: suspected sentry position to the north.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at tunnel entrance.",
+    "hypothesis": "UAV-B reports: suspected sentry position to the north.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at north side of the valley.",
+    "hypothesis": "UAV-B reports: target is located at south side of reservoir dam.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Highland Z.",
+    "hypothesis": "UAV-B reports: infrared flare residue detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 22:00.",
+    "hypothesis": "UAV-B reports: muddy ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 08:20.",
+    "hypothesis": "UAV-B reports: complex electromagnetic environment.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the self-propelled artillery has been destroyed.",
+    "hypothesis": "UAV-B reports: the self-propelled artillery is still active.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the infantry fighting vehicle has been silenced.",
+    "hypothesis": "UAV-B reports: the infantry fighting vehicle is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 800m.",
+    "hypothesis": "UAV-B reports: target altitude is 1500m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 5 supply convoy spotted.",
+    "hypothesis": "UAV-B reports: electronic warfare vehicle detected behind the armored command vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at northern plain.",
+    "hypothesis": "UAV-B reports: complex electromagnetic environment.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the self-propelled artillery has been no signs of life.",
+    "hypothesis": "UAV-B reports: the self-propelled artillery is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 23:50.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 10:30.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the infantry fighting vehicle has been destroyed.",
+    "hypothesis": "UAV-B reports: the infantry fighting vehicle is still active.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: several electronic warfare vehicle spotted.",
+    "hypothesis": "UAV-B reports: command post detected behind the infantry fighting vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at intersection of Road 3.",
+    "hypothesis": "UAV-B reports: target is located at west end of railway bridge.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at western lowland.",
+    "hypothesis": "UAV-B reports: southern bridge intact.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 3 armored personnel carrier spotted.",
+    "hypothesis": "UAV-B reports: communication relay vehicle detected behind the communication relay vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at end of airport runway.",
+    "hypothesis": "UAV-B reports: fresh excavation marks.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the fuel supply truck is moving northwest.",
+    "hypothesis": "UAV-B reports: the fuel supply truck is moving west.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the drone has been silenced.",
+    "hypothesis": "UAV-B reports: the drone is still active.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is sandstorm.",
+    "hypothesis": "UAV-B reports: civilian activity nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 12:00.",
+    "hypothesis": "UAV-B reports: southern bridge intact.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at tunnel entrance.",
+    "hypothesis": "UAV-B reports: GPS accuracy degraded.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at western lowland.",
+    "hypothesis": "UAV-B reports: target is located at Zone X.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Highland B.",
+    "hypothesis": "UAV-B reports: target is located at western lowland.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 2 anti-tank missile position spotted.",
+    "hypothesis": "UAV-B reports: light truck detected behind the drone.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 08:20.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 22:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 22:00.",
+    "hypothesis": "UAV-B reports: frequency-hopping communication in use.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is thunderstorm.",
+    "hypothesis": "UAV-B reports: suspected sentry position to the north.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 14:15.",
+    "hypothesis": "UAV-B reports: complex electromagnetic environment.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at western lowland.",
+    "hypothesis": "UAV-B reports: livestock activity in the area.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: several fuel supply truck spotted.",
+    "hypothesis": "UAV-B reports: command post detected behind the infantry fighting vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the supply convoy is moving north.",
+    "hypothesis": "UAV-B reports: the supply convoy is moving south.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 12:00.",
+    "hypothesis": "UAV-B reports: weak heat signature.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 1200m.",
+    "hypothesis": "UAV-B reports: target altitude is 1500m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Village D.",
+    "hypothesis": "UAV-B reports: target is located at north side of the valley.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is partly cloudy.",
+    "hypothesis": "UAV-B reports: suspected sentry position to the north.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 4 rocket artillery position spotted.",
+    "hypothesis": "UAV-B reports: communication base station detected behind the electronic warfare vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is partly cloudy.",
+    "hypothesis": "UAV-B reports: temporary cover on the east side.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at abandoned factory.",
+    "hypothesis": "UAV-B reports: southern bridge intact.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 06:00.",
+    "hypothesis": "UAV-B reports: intermittent communication signal.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 18:00.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 13:45.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at northern plain.",
+    "hypothesis": "UAV-B reports: GPS accuracy degraded.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Position A.",
+    "hypothesis": "UAV-B reports: target is located at industrial park.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 100m.",
+    "hypothesis": "UAV-B reports: target altitude is 1500m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the fuel supply truck is moving south.",
+    "hypothesis": "UAV-B reports: the fuel supply truck is moving west.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at canyon exit.",
+    "hypothesis": "UAV-B reports: target is located at Position A.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: multiple drone swarm spotted.",
+    "hypothesis": "UAV-B reports: radar station detected behind the engineering support vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is dense fog.",
+    "hypothesis": "UAV-B reports: southern bridge intact.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at north of substation.",
+    "hypothesis": "UAV-B reports: weak heat signature.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 12:00.",
+    "hypothesis": "UAV-B reports: suspected sentry position to the north.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is heavy fog.",
+    "hypothesis": "UAV-B reports: muddy ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the field medical team is moving north.",
+    "hypothesis": "UAV-B reports: the field medical team is moving east.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Position A.",
+    "hypothesis": "UAV-B reports: target is located at tunnel entrance.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 300m.",
+    "hypothesis": "UAV-B reports: target altitude is 2000m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at canyon exit.",
+    "hypothesis": "UAV-B reports: target is located at south side of reservoir dam.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the electronic warfare vehicle is moving south.",
+    "hypothesis": "UAV-B reports: the electronic warfare vehicle is moving southeast.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at end of airport runway.",
+    "hypothesis": "UAV-B reports: tire tracks on the ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is heavy rain.",
+    "hypothesis": "UAV-B reports: muddy ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the reconnaissance drone has been no signs of life.",
+    "hypothesis": "UAV-B reports: the reconnaissance drone is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the rocket artillery position has been destroyed.",
+    "hypothesis": "UAV-B reports: the rocket artillery position is still active.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 2000m.",
+    "hypothesis": "UAV-B reports: target altitude is 1500m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 22:00.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 16:40.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 19:30.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 06:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 12:00.",
+    "hypothesis": "UAV-B reports: bird swarm interference detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at tunnel entrance.",
+    "hypothesis": "UAV-B reports: target is located at Ford C.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: several electronic warfare vehicle spotted.",
+    "hypothesis": "UAV-B reports: radar station detected behind the light truck.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is sandstorm.",
+    "hypothesis": "UAV-B reports: weak signal strength.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 18:00.",
+    "hypothesis": "UAV-B reports: frequency-hopping communication in use.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Highland B.",
+    "hypothesis": "UAV-B reports: target is located at abandoned factory.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Highland Z.",
+    "hypothesis": "UAV-B reports: target is located at end of airport runway.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 20:10.",
+    "hypothesis": "UAV-B reports: weak heat signature.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Highland B.",
+    "hypothesis": "UAV-B reports: camouflage net detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is clear.",
+    "hypothesis": "UAV-B reports: temporary cover on the east side.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: a large number of communication base station spotted.",
+    "hypothesis": "UAV-B reports: fuel supply truck detected behind the self-propelled artillery.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the electronic warfare vehicle has been silenced.",
+    "hypothesis": "UAV-B reports: the electronic warfare vehicle is still active.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: multiple infantry fighting vehicle spotted.",
+    "hypothesis": "UAV-B reports: anti-tank missile position detected behind the rocket artillery position.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the electronic warfare vehicle has been no signs of life.",
+    "hypothesis": "UAV-B reports: the electronic warfare vehicle is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the armored command vehicle is moving east.",
+    "hypothesis": "UAV-B reports: the armored command vehicle is moving northeast.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 5 fuel supply truck spotted.",
+    "hypothesis": "UAV-B reports: fuel supply truck detected behind the field medical team.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the electronic warfare vehicle has been destroyed.",
+    "hypothesis": "UAV-B reports: the electronic warfare vehicle is still active.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 300m.",
+    "hypothesis": "UAV-B reports: target altitude is 1500m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 16:40.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 18:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Ford C.",
+    "hypothesis": "UAV-B reports: target is located at Position A.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at hilltop observation post.",
+    "hypothesis": "UAV-B reports: target is located at eastern ridge.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the armored command vehicle is moving east.",
+    "hypothesis": "UAV-B reports: the armored command vehicle is moving south.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 08:20.",
+    "hypothesis": "UAV-B reports: GPS accuracy degraded.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the radar station is moving northeast.",
+    "hypothesis": "UAV-B reports: the radar station is moving east.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 800m.",
+    "hypothesis": "UAV-B reports: target altitude is 300m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: no communication base station spotted.",
+    "hypothesis": "UAV-B reports: light truck detected behind the command post.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is clear.",
+    "hypothesis": "UAV-B reports: bird swarm interference detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 5 air defense missile system spotted.",
+    "hypothesis": "UAV-B reports: communication relay vehicle detected behind the field medical team.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 19:30.",
+    "hypothesis": "UAV-B reports: livestock activity in the area.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at industrial park.",
+    "hypothesis": "UAV-B reports: target is located at southern forest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at northern plain.",
+    "hypothesis": "UAV-B reports: intermittent communication signal.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 16:40.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 23:50.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 10:30.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 06:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 10:30.",
+    "hypothesis": "UAV-B reports: intermittent communication signal.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is partly cloudy.",
+    "hypothesis": "UAV-B reports: infrared flare residue detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at canyon exit.",
+    "hypothesis": "UAV-B reports: target is located at Village D.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Position A.",
+    "hypothesis": "UAV-B reports: target is located at northern plain.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is heavy rain.",
+    "hypothesis": "UAV-B reports: frequency-hopping communication in use.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at industrial park.",
+    "hypothesis": "UAV-B reports: target is located at Zone Y.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at industrial park.",
+    "hypothesis": "UAV-B reports: GPS accuracy degraded.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the armored command vehicle is moving northwest.",
+    "hypothesis": "UAV-B reports: the armored command vehicle is moving southeast.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at north of substation.",
+    "hypothesis": "UAV-B reports: suspected sentry position to the north.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 20:10.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 08:20.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 20:10.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 10:30.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the radar station is moving east.",
+    "hypothesis": "UAV-B reports: the radar station is moving south.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 4 light truck spotted.",
+    "hypothesis": "UAV-B reports: light truck detected behind the drone swarm.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 10:30.",
+    "hypothesis": "UAV-B reports: weak signal strength.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at south side of reservoir dam.",
+    "hypothesis": "UAV-B reports: low-frequency vibration detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 2000m.",
+    "hypothesis": "UAV-B reports: target altitude is 100m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: multiple reconnaissance drone spotted.",
+    "hypothesis": "UAV-B reports: electronic warfare vehicle detected behind the air defense missile system.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at abandoned factory.",
+    "hypothesis": "UAV-B reports: temporary cover on the east side.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 800m.",
+    "hypothesis": "UAV-B reports: target altitude is 1000m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Village D.",
+    "hypothesis": "UAV-B reports: target is located at canyon exit.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 22:00.",
+    "hypothesis": "UAV-B reports: livestock activity in the area.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the supply convoy has been silenced.",
+    "hypothesis": "UAV-B reports: the supply convoy is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the electronic warfare vehicle has been silenced.",
+    "hypothesis": "UAV-B reports: the electronic warfare vehicle is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the rocket artillery position is moving south.",
+    "hypothesis": "UAV-B reports: the rocket artillery position is moving north.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 23:50.",
+    "hypothesis": "UAV-B reports: tire tracks on the ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at north side of the valley.",
+    "hypothesis": "UAV-B reports: target is located at west end of railway bridge.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the radar station has been no signs of life.",
+    "hypothesis": "UAV-B reports: the radar station is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 5 command post spotted.",
+    "hypothesis": "UAV-B reports: light truck detected behind the communication base station.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the drone swarm is moving east.",
+    "hypothesis": "UAV-B reports: the drone swarm is moving south.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 22:00.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 19:30.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 5 self-propelled artillery spotted.",
+    "hypothesis": "UAV-B reports: drone swarm detected behind the field medical team.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is light breeze.",
+    "hypothesis": "UAV-B reports: suspected sentry position to the north.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 4 light truck spotted.",
+    "hypothesis": "UAV-B reports: self-propelled artillery detected behind the armored command vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: multiple anti-tank missile position spotted.",
+    "hypothesis": "UAV-B reports: field medical team detected behind the air defense missile system.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: a large number of reconnaissance drone spotted.",
+    "hypothesis": "UAV-B reports: command post detected behind the drone.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the radar station is moving east.",
+    "hypothesis": "UAV-B reports: the radar station is moving northwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the drone swarm is moving east.",
+    "hypothesis": "UAV-B reports: the drone swarm is moving north.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 08:20.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 20:10.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 1 anti-tank missile position spotted.",
+    "hypothesis": "UAV-B reports: self-propelled artillery detected behind the drone.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the infantry fighting vehicle has been no signs of life.",
+    "hypothesis": "UAV-B reports: the infantry fighting vehicle is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Highland Z.",
+    "hypothesis": "UAV-B reports: bird swarm interference detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is light breeze.",
+    "hypothesis": "UAV-B reports: weak signal strength.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 18:00.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 16:40.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 16:40.",
+    "hypothesis": "UAV-B reports: temporary cover on the east side.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 23:50.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 06:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 200m.",
+    "hypothesis": "UAV-B reports: target altitude is 800m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 06:00.",
+    "hypothesis": "UAV-B reports: civilian activity nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 18:00.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 08:20.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the communication base station has been silenced.",
+    "hypothesis": "UAV-B reports: the communication base station is still active.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is heavy fog.",
+    "hypothesis": "UAV-B reports: camouflage net detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 2 radar station spotted.",
+    "hypothesis": "UAV-B reports: supply convoy detected behind the field medical team.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is heavy rain.",
+    "hypothesis": "UAV-B reports: GPS accuracy degraded.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the field medical team is moving east.",
+    "hypothesis": "UAV-B reports: the field medical team is moving north.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is light breeze.",
+    "hypothesis": "UAV-B reports: civilian activity nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is heavy fog.",
+    "hypothesis": "UAV-B reports: livestock activity in the area.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 16:40.",
+    "hypothesis": "UAV-B reports: low-frequency vibration detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the armored personnel carrier is moving north.",
+    "hypothesis": "UAV-B reports: the armored personnel carrier is moving northeast.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: no light truck spotted.",
+    "hypothesis": "UAV-B reports: radar station detected behind the field medical team.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 1 anti-tank missile position spotted.",
+    "hypothesis": "UAV-B reports: communication relay vehicle detected behind the communication base station.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the rocket artillery position has been destroyed.",
+    "hypothesis": "UAV-B reports: the rocket artillery position is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: multiple communication base station spotted.",
+    "hypothesis": "UAV-B reports: armored personnel carrier detected behind the infantry fighting vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at intersection of Road 3.",
+    "hypothesis": "UAV-B reports: target is located at Highland B.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at tunnel entrance.",
+    "hypothesis": "UAV-B reports: tire tracks on the ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 19:30.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 13:45.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 16:40.",
+    "hypothesis": "UAV-B reports: camouflage net detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the self-propelled artillery has been no signs of life.",
+    "hypothesis": "UAV-B reports: the self-propelled artillery is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Zone Y.",
+    "hypothesis": "UAV-B reports: GPS accuracy degraded.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 19:30.",
+    "hypothesis": "UAV-B reports: fresh excavation marks.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is dense fog.",
+    "hypothesis": "UAV-B reports: abandoned buildings nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 13:45.",
+    "hypothesis": "UAV-B reports: intermittent communication signal.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the drone has been silenced.",
+    "hypothesis": "UAV-B reports: the drone is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 23:50.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 12:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is thunderstorm.",
+    "hypothesis": "UAV-B reports: southern bridge intact.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the anti-tank missile position has been silenced.",
+    "hypothesis": "UAV-B reports: the anti-tank missile position is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the armored command vehicle is moving northeast.",
+    "hypothesis": "UAV-B reports: the armored command vehicle is moving southwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 14:15.",
+    "hypothesis": "UAV-B reports: infrared flare residue detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the communication base station is moving northeast.",
+    "hypothesis": "UAV-B reports: the communication base station is moving northwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 10:30.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 12:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is light breeze, good visibility.",
+    "hypothesis": "UAV-B reports: weather is sandstorm, very poor visibility.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the rocket artillery position is moving north.",
+    "hypothesis": "UAV-B reports: the rocket artillery position is moving southwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Village D.",
+    "hypothesis": "UAV-B reports: target is located at Zone Y.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 20:10.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 12:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at west end of railway bridge.",
+    "hypothesis": "UAV-B reports: bird swarm interference detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at northern plain.",
+    "hypothesis": "UAV-B reports: target is located at Highland Z.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the radar station is moving northeast.",
+    "hypothesis": "UAV-B reports: the radar station is moving south.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 3 communication base station spotted.",
+    "hypothesis": "UAV-B reports: radar station detected behind the command post.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: no drone swarm spotted.",
+    "hypothesis": "UAV-B reports: communication base station detected behind the self-propelled artillery.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at west end of railway bridge.",
+    "hypothesis": "UAV-B reports: target is located at Village D.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at canyon exit.",
+    "hypothesis": "UAV-B reports: infrared flare residue detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 2 drone spotted.",
+    "hypothesis": "UAV-B reports: drone swarm detected behind the rocket artillery position.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at industrial park.",
+    "hypothesis": "UAV-B reports: target is located at Ford C.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the light truck is moving southeast.",
+    "hypothesis": "UAV-B reports: the light truck is moving east.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Village D.",
+    "hypothesis": "UAV-B reports: southern bridge intact.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the field medical team is moving north.",
+    "hypothesis": "UAV-B reports: the field medical team is moving south.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the drone swarm is moving north.",
+    "hypothesis": "UAV-B reports: the drone swarm is moving northwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at north of substation.",
+    "hypothesis": "UAV-B reports: target is located at eastern ridge.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the drone has been destroyed.",
+    "hypothesis": "UAV-B reports: the drone is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the field medical team has been destroyed.",
+    "hypothesis": "UAV-B reports: the field medical team is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 5 drone swarm spotted.",
+    "hypothesis": "UAV-B reports: air defense missile system detected behind the air defense missile system.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the supply convoy is moving south.",
+    "hypothesis": "UAV-B reports: the supply convoy is moving southeast.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 08:20.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 19:30.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 3 armored command vehicle spotted.",
+    "hypothesis": "UAV-B reports: armored personnel carrier detected behind the engineering support vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 08:20.",
+    "hypothesis": "UAV-B reports: abandoned buildings nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at abandoned factory.",
+    "hypothesis": "UAV-B reports: target is located at Highland Z.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is partly cloudy, good visibility.",
+    "hypothesis": "UAV-B reports: weather is heavy rain, very poor visibility.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the drone has been no signs of life.",
+    "hypothesis": "UAV-B reports: the drone is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the light truck is moving northeast.",
+    "hypothesis": "UAV-B reports: the light truck is moving northwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 18:00.",
+    "hypothesis": "UAV-B reports: low-frequency vibration detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is thunderstorm.",
+    "hypothesis": "UAV-B reports: weak signal strength.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 500m.",
+    "hypothesis": "UAV-B reports: target altitude is 1500m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Zone X.",
+    "hypothesis": "UAV-B reports: low-frequency vibration detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is sandstorm.",
+    "hypothesis": "UAV-B reports: tire tracks on the ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is dense fog.",
+    "hypothesis": "UAV-B reports: livestock activity in the area.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the communication relay vehicle has been silenced.",
+    "hypothesis": "UAV-B reports: the communication relay vehicle is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the armored personnel carrier is moving northwest.",
+    "hypothesis": "UAV-B reports: the armored personnel carrier is moving southeast.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 13:45.",
+    "hypothesis": "UAV-B reports: infrared flare residue detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 3 engineering support vehicle spotted.",
+    "hypothesis": "UAV-B reports: armored command vehicle detected behind the communication relay vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 2 radar station spotted.",
+    "hypothesis": "UAV-B reports: communication relay vehicle detected behind the fuel supply truck.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at near oil depot.",
+    "hypothesis": "UAV-B reports: temporary cover on the east side.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the radar station is moving west.",
+    "hypothesis": "UAV-B reports: the radar station is moving southeast.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: several anti-tank missile position spotted.",
+    "hypothesis": "UAV-B reports: reconnaissance drone detected behind the electronic warfare vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Position A.",
+    "hypothesis": "UAV-B reports: tire tracks on the ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at eastern ridge.",
+    "hypothesis": "UAV-B reports: target is located at Highland Z.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 18:00.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 12:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 16:40.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 22:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at north side of the valley.",
+    "hypothesis": "UAV-B reports: wind speed 15 knots.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the rocket artillery position is moving northwest.",
+    "hypothesis": "UAV-B reports: the rocket artillery position is moving south.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the fuel supply truck has been silenced.",
+    "hypothesis": "UAV-B reports: the fuel supply truck is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is dense fog.",
+    "hypothesis": "UAV-B reports: weak signal strength.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 20:10.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 06:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: no communication relay vehicle spotted.",
+    "hypothesis": "UAV-B reports: light truck detected behind the light truck.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the armored command vehicle is moving west.",
+    "hypothesis": "UAV-B reports: the armored command vehicle is moving south.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Ford C.",
+    "hypothesis": "UAV-B reports: muddy ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Position A.",
+    "hypothesis": "UAV-B reports: target is located at southern forest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 08:20.",
+    "hypothesis": "UAV-B reports: fresh excavation marks.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 200m.",
+    "hypothesis": "UAV-B reports: target altitude is 500m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at canyon exit.",
+    "hypothesis": "UAV-B reports: weak heat signature.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the anti-tank missile position has been destroyed.",
+    "hypothesis": "UAV-B reports: the anti-tank missile position is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is clear.",
+    "hypothesis": "UAV-B reports: muddy ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the rocket artillery position has been no signs of life.",
+    "hypothesis": "UAV-B reports: the rocket artillery position is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 100m.",
+    "hypothesis": "UAV-B reports: target altitude is 300m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is partly cloudy.",
+    "hypothesis": "UAV-B reports: weak signal strength.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the rocket artillery position is moving southwest.",
+    "hypothesis": "UAV-B reports: the rocket artillery position is moving northeast.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at intersection of Road 3.",
+    "hypothesis": "UAV-B reports: bird swarm interference detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is light breeze.",
+    "hypothesis": "UAV-B reports: southern bridge intact.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at west end of railway bridge.",
+    "hypothesis": "UAV-B reports: abandoned buildings nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: no drone spotted.",
+    "hypothesis": "UAV-B reports: fuel supply truck detected behind the command post.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 10:30.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 08:20.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 5 armored command vehicle spotted.",
+    "hypothesis": "UAV-B reports: electronic warfare vehicle detected behind the reconnaissance drone.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at tunnel entrance.",
+    "hypothesis": "UAV-B reports: infrared flare residue detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 300m.",
+    "hypothesis": "UAV-B reports: target altitude is 500m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at western lowland.",
+    "hypothesis": "UAV-B reports: target is located at Ford C.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the electronic warfare vehicle has been destroyed.",
+    "hypothesis": "UAV-B reports: the electronic warfare vehicle is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at south side of reservoir dam.",
+    "hypothesis": "UAV-B reports: tire tracks on the ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 06:00.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 22:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: a large number of fuel supply truck spotted.",
+    "hypothesis": "UAV-B reports: armored command vehicle detected behind the drone swarm.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Zone X.",
+    "hypothesis": "UAV-B reports: target is located at Village D.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is heavy rain.",
+    "hypothesis": "UAV-B reports: wind speed 15 knots.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the rocket artillery position is moving south.",
+    "hypothesis": "UAV-B reports: the rocket artillery position is moving northeast.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is sandstorm.",
+    "hypothesis": "UAV-B reports: intermittent communication signal.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 08:20.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 16:40.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at dock area.",
+    "hypothesis": "UAV-B reports: target is located at southern forest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: a large number of reconnaissance drone spotted.",
+    "hypothesis": "UAV-B reports: command post detected behind the command post.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the radar station is moving southeast.",
+    "hypothesis": "UAV-B reports: the radar station is moving south.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at intersection of Road 3.",
+    "hypothesis": "UAV-B reports: target is located at southern forest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: no armored personnel carrier spotted.",
+    "hypothesis": "UAV-B reports: radar station detected behind the drone swarm.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: no communication base station spotted.",
+    "hypothesis": "UAV-B reports: command post detected behind the electronic warfare vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 1000m.",
+    "hypothesis": "UAV-B reports: target altitude is 800m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the supply convoy has been no signs of life.",
+    "hypothesis": "UAV-B reports: the supply convoy is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is light breeze.",
+    "hypothesis": "UAV-B reports: intermittent communication signal.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 1500m.",
+    "hypothesis": "UAV-B reports: target altitude is 100m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the drone is moving northeast.",
+    "hypothesis": "UAV-B reports: the drone is moving north.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 12:00.",
+    "hypothesis": "UAV-B reports: low-frequency vibration detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is thunderstorm.",
+    "hypothesis": "UAV-B reports: frequency-hopping communication in use.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 1 command post spotted.",
+    "hypothesis": "UAV-B reports: self-propelled artillery detected behind the air defense missile system.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: several light truck spotted.",
+    "hypothesis": "UAV-B reports: light truck detected behind the reconnaissance drone.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at northern plain.",
+    "hypothesis": "UAV-B reports: target is located at eastern ridge.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is heavy rain.",
+    "hypothesis": "UAV-B reports: bird swarm interference detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 12:00.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 16:40.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is partly cloudy, good visibility.",
+    "hypothesis": "UAV-B reports: weather is dense fog, very poor visibility.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: multiple supply convoy spotted.",
+    "hypothesis": "UAV-B reports: drone detected behind the air defense missile system.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: several communication base station spotted.",
+    "hypothesis": "UAV-B reports: communication relay vehicle detected behind the radar station.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the fuel supply truck is moving north.",
+    "hypothesis": "UAV-B reports: the fuel supply truck is moving southwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 22:00.",
+    "hypothesis": "UAV-B reports: weak heat signature.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 12:00.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 14:15.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 2 field medical team spotted.",
+    "hypothesis": "UAV-B reports: communication relay vehicle detected behind the communication base station.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 14:15.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 22:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the drone is moving northeast.",
+    "hypothesis": "UAV-B reports: the drone is moving northwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Zone X.",
+    "hypothesis": "UAV-B reports: wind speed 15 knots.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the engineering support vehicle is moving northeast.",
+    "hypothesis": "UAV-B reports: the engineering support vehicle is moving west.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the electronic warfare vehicle has been silenced.",
+    "hypothesis": "UAV-B reports: the electronic warfare vehicle is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 23:50.",
+    "hypothesis": "UAV-B reports: complex electromagnetic environment.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the electronic warfare vehicle is moving west.",
+    "hypothesis": "UAV-B reports: the electronic warfare vehicle is moving northeast.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at dock area.",
+    "hypothesis": "UAV-B reports: target is located at north of substation.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the supply convoy has been destroyed.",
+    "hypothesis": "UAV-B reports: the supply convoy is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 08:20.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 06:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 5 anti-tank missile position spotted.",
+    "hypothesis": "UAV-B reports: drone detected behind the drone.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the fuel supply truck is moving southeast.",
+    "hypothesis": "UAV-B reports: the fuel supply truck is moving southwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the reconnaissance drone has been destroyed.",
+    "hypothesis": "UAV-B reports: the reconnaissance drone is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is partly cloudy, good visibility.",
+    "hypothesis": "UAV-B reports: weather is thunderstorm, very poor visibility.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at intersection of Road 3.",
+    "hypothesis": "UAV-B reports: abandoned buildings nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the engineering support vehicle is moving northwest.",
+    "hypothesis": "UAV-B reports: the engineering support vehicle is moving east.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at western lowland.",
+    "hypothesis": "UAV-B reports: suspected sentry position to the north.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the command post is moving south.",
+    "hypothesis": "UAV-B reports: the command post is moving northwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is clear.",
+    "hypothesis": "UAV-B reports: infrared flare residue detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at western lowland.",
+    "hypothesis": "UAV-B reports: camouflage net detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 06:00.",
+    "hypothesis": "UAV-B reports: abandoned buildings nearby.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 3 rocket artillery position spotted.",
+    "hypothesis": "UAV-B reports: fuel supply truck detected behind the field medical team.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is partly cloudy.",
+    "hypothesis": "UAV-B reports: weak heat signature.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 18:00.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 10:30.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 1500m.",
+    "hypothesis": "UAV-B reports: target altitude is 500m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the electronic warfare vehicle is moving northwest.",
+    "hypothesis": "UAV-B reports: the electronic warfare vehicle is moving southeast.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: no drone spotted.",
+    "hypothesis": "UAV-B reports: drone swarm detected behind the infantry fighting vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is heavy fog.",
+    "hypothesis": "UAV-B reports: GPS accuracy degraded.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Ford C.",
+    "hypothesis": "UAV-B reports: complex electromagnetic environment.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at canyon exit.",
+    "hypothesis": "UAV-B reports: fresh excavation marks.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at north of substation.",
+    "hypothesis": "UAV-B reports: target is located at near oil depot.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the command post is moving north.",
+    "hypothesis": "UAV-B reports: the command post is moving northwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 12:00.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 06:00.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 12:00.",
+    "hypothesis": "UAV-B reports: muddy ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 10:30.",
+    "hypothesis": "UAV-B reports: complex electromagnetic environment.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the fuel supply truck has been no signs of life.",
+    "hypothesis": "UAV-B reports: the fuel supply truck is clear heat signature.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: no armored command vehicle spotted.",
+    "hypothesis": "UAV-B reports: air defense missile system detected behind the engineering support vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 20:10.",
+    "hypothesis": "UAV-B reports: weak signal strength.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the anti-tank missile position has been no signs of life.",
+    "hypothesis": "UAV-B reports: the anti-tank missile position is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 1 drone spotted.",
+    "hypothesis": "UAV-B reports: self-propelled artillery detected behind the communication base station.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Highland B.",
+    "hypothesis": "UAV-B reports: frequency-hopping communication in use.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 100m.",
+    "hypothesis": "UAV-B reports: target altitude is 1000m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at intersection of Road 3.",
+    "hypothesis": "UAV-B reports: temporary cover on the east side.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: multiple communication relay vehicle spotted.",
+    "hypothesis": "UAV-B reports: air defense missile system detected behind the rocket artillery position.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: multiple air defense missile system spotted.",
+    "hypothesis": "UAV-B reports: communication base station detected behind the armored command vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: a large number of self-propelled artillery spotted.",
+    "hypothesis": "UAV-B reports: anti-tank missile position detected behind the drone.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the armored personnel carrier has been silenced.",
+    "hypothesis": "UAV-B reports: the armored personnel carrier is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 10:30.",
+    "hypothesis": "UAV-B reports: fresh excavation marks.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the reconnaissance drone has been silenced.",
+    "hypothesis": "UAV-B reports: the reconnaissance drone is still active.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: 5 drone swarm spotted.",
+    "hypothesis": "UAV-B reports: communication base station detected behind the field medical team.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Zone Y.",
+    "hypothesis": "UAV-B reports: target is located at tunnel entrance.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the reconnaissance drone is moving northwest.",
+    "hypothesis": "UAV-B reports: the reconnaissance drone is moving northeast.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the field medical team has been no signs of life.",
+    "hypothesis": "UAV-B reports: the field medical team is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at northern plain.",
+    "hypothesis": "UAV-B reports: target is located at intersection of Road 3.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at industrial park.",
+    "hypothesis": "UAV-B reports: target is located at tunnel entrance.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 2000m.",
+    "hypothesis": "UAV-B reports: target altitude is 300m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the air defense missile system is moving southwest.",
+    "hypothesis": "UAV-B reports: the air defense missile system is moving south.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is partly cloudy.",
+    "hypothesis": "UAV-B reports: GPS accuracy degraded.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Ford C.",
+    "hypothesis": "UAV-B reports: suspected sentry position to the north.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the communication relay vehicle has been no signs of life.",
+    "hypothesis": "UAV-B reports: the communication relay vehicle is continuously transmitting signals.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the infantry fighting vehicle has been no signs of life.",
+    "hypothesis": "UAV-B reports: the infantry fighting vehicle is still active.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 13:45.",
+    "hypothesis": "UAV-B reports: frequency-hopping communication in use.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at dock area.",
+    "hypothesis": "UAV-B reports: target is located at Position A.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is clear.",
+    "hypothesis": "UAV-B reports: GPS accuracy degraded.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at Zone X.",
+    "hypothesis": "UAV-B reports: target is located at Highland Z.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 23:50.",
+    "hypothesis": "UAV-B reports: weak heat signature.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the air defense missile system is moving northeast.",
+    "hypothesis": "UAV-B reports: the air defense missile system is moving southeast.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 100m.",
+    "hypothesis": "UAV-B reports: target altitude is 1200m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at north side of the valley.",
+    "hypothesis": "UAV-B reports: target is located at eastern ridge.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is clear.",
+    "hypothesis": "UAV-B reports: southern bridge intact.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at end of airport runway.",
+    "hypothesis": "UAV-B reports: complex electromagnetic environment.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at end of airport runway.",
+    "hypothesis": "UAV-B reports: frequency-hopping communication in use.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is thunderstorm.",
+    "hypothesis": "UAV-B reports: tire tracks on the ground.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is heavy rain.",
+    "hypothesis": "UAV-B reports: low-frequency vibration detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 4 communication relay vehicle spotted.",
+    "hypothesis": "UAV-B reports: armored personnel carrier detected behind the reconnaissance drone.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 1000m.",
+    "hypothesis": "UAV-B reports: target altitude is 200m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: a large number of drone spotted.",
+    "hypothesis": "UAV-B reports: air defense missile system detected behind the field medical team.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the anti-tank missile position is moving northwest.",
+    "hypothesis": "UAV-B reports: the anti-tank missile position is moving east.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at near oil depot.",
+    "hypothesis": "UAV-B reports: livestock activity in the area.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at intersection of Road 3.",
+    "hypothesis": "UAV-B reports: target is located at Position A.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 08:20.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 10:30.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at eastern ridge.",
+    "hypothesis": "UAV-B reports: target is located at Ford C.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at south side of reservoir dam.",
+    "hypothesis": "UAV-B reports: camouflage net detected.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 10:30.",
+    "hypothesis": "UAV-B reports: temporary cover on the east side.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: multiple field medical team spotted.",
+    "hypothesis": "UAV-B reports: anti-tank missile position detected behind the fuel supply truck.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the anti-tank missile position is moving southeast.",
+    "hypothesis": "UAV-B reports: the anti-tank missile position is moving southwest.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the engineering support vehicle is moving east.",
+    "hypothesis": "UAV-B reports: the engineering support vehicle is moving northeast.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: weather is clear.",
+    "hypothesis": "UAV-B reports: livestock activity in the area.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 14:15.",
+    "hypothesis": "UAV-B reports: reconnaissance time is 16:40.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at industrial park.",
+    "hypothesis": "UAV-B reports: temporary cover on the east side.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: reconnaissance time is 19:30.",
+    "hypothesis": "UAV-B reports: weak signal strength.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: 1 rocket artillery position spotted.",
+    "hypothesis": "UAV-B reports: command post detected behind the armored personnel carrier.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target altitude is 1200m.",
+    "hypothesis": "UAV-B reports: target altitude is 300m.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at intersection of Road 3.",
+    "hypothesis": "UAV-B reports: intermittent communication signal.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the communication relay vehicle is moving east.",
+    "hypothesis": "UAV-B reports: the communication relay vehicle is moving north.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: target is located at Village D.",
+    "hypothesis": "UAV-B reports: wind speed 15 knots.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: weather is partly cloudy.",
+    "hypothesis": "UAV-B reports: livestock activity in the area.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: the fuel supply truck is moving southwest.",
+    "hypothesis": "UAV-B reports: the fuel supply truck is moving south.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: no command post spotted.",
+    "hypothesis": "UAV-B reports: light truck detected behind the engineering support vehicle.",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A reports: target is located at west end of railway bridge.",
+    "hypothesis": "UAV-B reports: target is located at industrial park.",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A reports: the air defense missile system is moving southeast.",
+    "hypothesis": "UAV-B reports: the air defense missile system is moving southwest.",
+    "label": 1
+  }
+]

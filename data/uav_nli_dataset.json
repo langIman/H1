@@ -1,0 +1,5002 @@
+[
+  {
+    "premise": "UAV-A报告：目标位于油库附近。",
+    "hypothesis": "UAV-B报告：地面有车辙。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为08:20。",
+    "hypothesis": "UAV-B报告：侦察时间为12:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度100米。",
+    "hypothesis": "UAV-B报告：18:00区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现少量自行火炮。",
+    "hypothesis": "UAV-B报告：北侧有疑似哨位。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于A阵地。",
+    "hypothesis": "UAV-B报告：目标位于南部林区。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度2000米。",
+    "hypothesis": "UAV-B报告：指挥所后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于X区域。",
+    "hypothesis": "UAV-B报告：地面有车辙。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间18:00。",
+    "hypothesis": "UAV-B报告：自行火炮后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度100米。",
+    "hypothesis": "UAV-B报告：峡谷出口存在雷区标识。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为23:50。",
+    "hypothesis": "UAV-B报告：侦察时间为19:30。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向东南移动。",
+    "hypothesis": "UAV-B报告：目标正向西移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现少量单兵无人机。",
+    "hypothesis": "UAV-B报告：该区域无任何火箭炮阵地。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现5辆自行火炮。",
+    "hypothesis": "UAV-B报告：23:50区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于雷达站周边。",
+    "hypothesis": "UAV-B报告：目标位于东侧山脊。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为1200米。",
+    "hypothesis": "UAV-B报告：目标高度为300米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气暴雨。",
+    "hypothesis": "UAV-B报告：热信号微弱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于北部平原。",
+    "hypothesis": "UAV-B报告：通信中继车后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于Y区域。",
+    "hypothesis": "UAV-B报告：空中有鸟群干扰。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于山顶观测点。",
+    "hypothesis": "UAV-B报告：目标位于A阵地。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现5辆通信中继车。",
+    "hypothesis": "UAV-B报告：西侧洼地存在树木倒伏。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度为200米。",
+    "hypothesis": "UAV-B报告：目标高度为200米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气沙尘。",
+    "hypothesis": "UAV-B报告：燃油补给车后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气暴雨，能见度良好。",
+    "hypothesis": "UAV-B报告：天气暴雨，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向北移动。",
+    "hypothesis": "UAV-B报告：峡谷出口存在大量障碍物。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现无轻型卡车。",
+    "hypothesis": "UAV-B报告：该区域无任何电子战车辆。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气中雨，能见度良好。",
+    "hypothesis": "UAV-B报告：天气浓雾，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度100米。",
+    "hypothesis": "UAV-B报告：东侧山脊存在大量障碍物。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向北移动。",
+    "hypothesis": "UAV-B报告：目标正向南移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向北移动。",
+    "hypothesis": "UAV-B报告：南部林区存在桥梁损毁。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向西北移动。",
+    "hypothesis": "UAV-B报告：废弃工厂存在桥梁损毁。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现2辆装甲指挥车。",
+    "hypothesis": "UAV-B报告：该区域无任何装甲指挥车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现无轻型卡车。",
+    "hypothesis": "UAV-B报告：该区域无任何雷达站。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气阴天，能见度良好。",
+    "hypothesis": "UAV-B报告：天气大雾，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气小雨。",
+    "hypothesis": "UAV-B报告：A阵地存在桥梁损毁。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为12:00。",
+    "hypothesis": "UAV-B报告：侦察时间为10:30。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度1000米。",
+    "hypothesis": "UAV-B报告：08:20区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于D村庄。",
+    "hypothesis": "UAV-B报告：目标位于3号公路交叉口。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间19:30。",
+    "hypothesis": "UAV-B报告：发现伪装网覆盖。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度1500米。",
+    "hypothesis": "UAV-B报告：探测到低频振动。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于3号公路交叉口。",
+    "hypothesis": "UAV-B报告：通信中继车后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向东南移动。",
+    "hypothesis": "UAV-B报告：22:00区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度100米。",
+    "hypothesis": "UAV-B报告：热信号微弱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于雷达站周边。",
+    "hypothesis": "UAV-B报告：目标位于山顶观测点。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向南移动。",
+    "hypothesis": "UAV-B报告：目标正向南移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气阴天，能见度良好。",
+    "hypothesis": "UAV-B报告：天气晴朗，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为13:45。",
+    "hypothesis": "UAV-B报告：侦察时间为16:40。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于南部林区。",
+    "hypothesis": "UAV-B报告：目标位于X区域。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为500米。",
+    "hypothesis": "UAV-B报告：目标高度为100米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为18:00。",
+    "hypothesis": "UAV-B报告：侦察时间为14:15。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于河谷北侧。",
+    "hypothesis": "UAV-B报告：目标位于山顶观测点。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气暴雨。",
+    "hypothesis": "UAV-B报告：Y区域存在桥梁损毁。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现无无人机蜂群。",
+    "hypothesis": "UAV-B报告：该区域无任何防空导弹系统。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气晴朗。",
+    "hypothesis": "UAV-B报告：东侧山脊存在临时路障。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度为1000米。",
+    "hypothesis": "UAV-B报告：目标高度为1000米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度2000米。",
+    "hypothesis": "UAV-B报告：22:00区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向东移动。",
+    "hypothesis": "UAV-B报告：目标正向西南移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于河谷北侧。",
+    "hypothesis": "UAV-B报告：目标位于变电站北侧。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于山顶观测点。",
+    "hypothesis": "UAV-B报告：步兵战车后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间12:00。",
+    "hypothesis": "UAV-B报告：12:00区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度2000米。",
+    "hypothesis": "UAV-B报告：无人机蜂群后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气多云。",
+    "hypothesis": "UAV-B报告：10:30区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气晴朗，能见度良好。",
+    "hypothesis": "UAV-B报告：天气大雾，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现多辆防空导弹系统。",
+    "hypothesis": "UAV-B报告：该区域无任何轻型卡车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度1000米。",
+    "hypothesis": "UAV-B报告：Z高地存在临时路障。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气暴雨。",
+    "hypothesis": "UAV-B报告：C渡口存在桥梁损毁。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于工业园区。",
+    "hypothesis": "UAV-B报告：目标位于油库附近。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为100米。",
+    "hypothesis": "UAV-B报告：目标高度为2000米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为22:00。",
+    "hypothesis": "UAV-B报告：侦察时间为20:10。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向西北移动。",
+    "hypothesis": "UAV-B报告：目标正向西南移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为10:30。",
+    "hypothesis": "UAV-B报告：侦察时间为20:10。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标已摧毁。",
+    "hypothesis": "UAV-B报告：目标热信号清晰。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现5辆补给车队。",
+    "hypothesis": "UAV-B报告：隧道入口存在壕沟拦截。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为22:00。",
+    "hypothesis": "UAV-B报告：侦察时间为12:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现3辆轻型卡车。",
+    "hypothesis": "UAV-B报告：热信号微弱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于机场跑道末端。",
+    "hypothesis": "UAV-B报告：目标位于D村庄。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度100米。",
+    "hypothesis": "UAV-B报告：14:15区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于D村庄。",
+    "hypothesis": "UAV-B报告：工业园区存在铁丝网围栏。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现3辆补给车队。",
+    "hypothesis": "UAV-B报告：该区域无任何通信基站。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于C渡口。",
+    "hypothesis": "UAV-B报告：目标位于码头区域。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间20:10。",
+    "hypothesis": "UAV-B报告：D村庄存在雷区标识。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向南移动。",
+    "hypothesis": "UAV-B报告：目标正向西北移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气暴雨，能见度良好。",
+    "hypothesis": "UAV-B报告：天气浓雾，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向东移动。",
+    "hypothesis": "UAV-B报告：22:00区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于河谷北侧。",
+    "hypothesis": "UAV-B报告：目标位于油库附近。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于山顶观测点。",
+    "hypothesis": "UAV-B报告：目标位于隧道入口。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现大量电子战车辆。",
+    "hypothesis": "UAV-B报告：雷达站后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间14:15。",
+    "hypothesis": "UAV-B报告：通信信号间歇中断。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为19:30。",
+    "hypothesis": "UAV-B报告：侦察时间为23:50。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为22:00。",
+    "hypothesis": "UAV-B报告：侦察时间为06:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气浓雾，能见度良好。",
+    "hypothesis": "UAV-B报告：天气大雾，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现少量燃油补给车。",
+    "hypothesis": "UAV-B报告：该区域无任何防空导弹系统。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气小雨。",
+    "hypothesis": "UAV-B报告：电磁环境复杂。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现大量防空导弹系统。",
+    "hypothesis": "UAV-B报告：通信信号间歇中断。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于变电站北侧。",
+    "hypothesis": "UAV-B报告：机场跑道末端存在树木倒伏。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于河谷北侧。",
+    "hypothesis": "UAV-B报告：热信号微弱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度300米。",
+    "hypothesis": "UAV-B报告：码头区域存在大量障碍物。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于X区域。",
+    "hypothesis": "UAV-B报告：20:10区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气多云。",
+    "hypothesis": "UAV-B报告：08:20区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向东移动。",
+    "hypothesis": "UAV-B报告：22:00区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现5辆轻型卡车。",
+    "hypothesis": "UAV-B报告：机场跑道末端存在壕沟拦截。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气多云，能见度良好。",
+    "hypothesis": "UAV-B报告：天气阴天，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间14:15。",
+    "hypothesis": "UAV-B报告：10:30区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气阴天，能见度良好。",
+    "hypothesis": "UAV-B报告：天气阴天，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现多辆单兵无人机。",
+    "hypothesis": "UAV-B报告：装甲指挥车后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气浓雾，能见度良好。",
+    "hypothesis": "UAV-B报告：天气晴朗，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现2辆无人机蜂群。",
+    "hypothesis": "UAV-B报告：地面有车辙。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向东南移动。",
+    "hypothesis": "UAV-B报告：步兵战车后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为18:00。",
+    "hypothesis": "UAV-B报告：侦察时间为23:50。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现2辆工程保障车。",
+    "hypothesis": "UAV-B报告：油库附近存在大量障碍物。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现无反坦克导弹阵地。",
+    "hypothesis": "UAV-B报告：该区域无任何电子战车辆。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于雷达站周边。",
+    "hypothesis": "UAV-B报告：目标位于工业园区。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向东移动。",
+    "hypothesis": "UAV-B报告：目标正向北移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气浓雾，能见度良好。",
+    "hypothesis": "UAV-B报告：天气雷暴，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间22:00。",
+    "hypothesis": "UAV-B报告：19:30区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现无野战医疗队。",
+    "hypothesis": "UAV-B报告：北侧有疑似哨位。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度为1200米。",
+    "hypothesis": "UAV-B报告：目标高度为1500米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为19:30。",
+    "hypothesis": "UAV-B报告：侦察时间为20:10。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向北移动。",
+    "hypothesis": "UAV-B报告：水库大坝南侧存在临时路障。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于北部平原。",
+    "hypothesis": "UAV-B报告：目标位于C渡口。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向南移动。",
+    "hypothesis": "UAV-B报告：14:15区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于南部林区。",
+    "hypothesis": "UAV-B报告：目标位于D村庄。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为2000米。",
+    "hypothesis": "UAV-B报告：目标高度为1200米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现1辆通信中继车。",
+    "hypothesis": "UAV-B报告：20:10区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向西移动。",
+    "hypothesis": "UAV-B报告：机场跑道末端存在混凝土路墩。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现多辆电子战车辆。",
+    "hypothesis": "UAV-B报告：A阵地存在车辆残骸。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间19:30。",
+    "hypothesis": "UAV-B报告：16:40区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度1500米。",
+    "hypothesis": "UAV-B报告：反坦克导弹阵地后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度为1200米。",
+    "hypothesis": "UAV-B报告：目标高度为1000米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间18:00。",
+    "hypothesis": "UAV-B报告：河谷北侧存在混凝土路墩。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于3号公路交叉口。",
+    "hypothesis": "UAV-B报告：装甲指挥车后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为12:00。",
+    "hypothesis": "UAV-B报告：侦察时间为18:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气晴朗。",
+    "hypothesis": "UAV-B报告：08:20区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向东南移动。",
+    "hypothesis": "UAV-B报告：12:00区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现1辆侦察无人机。",
+    "hypothesis": "UAV-B报告：该区域无任何防空导弹系统。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于雷达站周边。",
+    "hypothesis": "UAV-B报告：22:00区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气中雨，能见度良好。",
+    "hypothesis": "UAV-B报告：天气小雨，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间19:30。",
+    "hypothesis": "UAV-B报告：区域内有牲畜活动。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于北部平原。",
+    "hypothesis": "UAV-B报告：目标位于X区域。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为23:50。",
+    "hypothesis": "UAV-B报告：侦察时间为14:15。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为2000米。",
+    "hypothesis": "UAV-B报告：目标高度为2000米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气晴朗，能见度良好。",
+    "hypothesis": "UAV-B报告：天气雷暴，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标无生命迹象。",
+    "hypothesis": "UAV-B报告：目标持续发射信号。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气晴朗。",
+    "hypothesis": "UAV-B报告：雷达站周边存在大量障碍物。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向东移动。",
+    "hypothesis": "UAV-B报告：铁路桥西端存在桥梁损毁。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间08:20。",
+    "hypothesis": "UAV-B报告：通信基站后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气小雨。",
+    "hypothesis": "UAV-B报告：西侧洼地存在混凝土路墩。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现无燃油补给车。",
+    "hypothesis": "UAV-B报告：该区域无任何火箭炮阵地。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于C渡口。",
+    "hypothesis": "UAV-B报告：工业园区存在大量障碍物。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度1000米。",
+    "hypothesis": "UAV-B报告：步兵战车后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度为1500米。",
+    "hypothesis": "UAV-B报告：目标高度为500米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间23:50。",
+    "hypothesis": "UAV-B报告：装甲运兵车后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现3辆步兵战车。",
+    "hypothesis": "UAV-B报告：该区域无任何工程保障车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气晴朗。",
+    "hypothesis": "UAV-B报告：20:10区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于雷达站周边。",
+    "hypothesis": "UAV-B报告：反坦克导弹阵地后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现3辆侦察无人机。",
+    "hypothesis": "UAV-B报告：自行火炮后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现1辆装甲运兵车。",
+    "hypothesis": "UAV-B报告：该区域无任何自行火炮。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于铁路桥西端。",
+    "hypothesis": "UAV-B报告：12:00区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于变电站北侧。",
+    "hypothesis": "UAV-B报告：22:00区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于工业园区。",
+    "hypothesis": "UAV-B报告：通信信号间歇中断。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气大雾。",
+    "hypothesis": "UAV-B报告：06:00区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气暴雨，能见度良好。",
+    "hypothesis": "UAV-B报告：天气中雨，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气沙尘，能见度良好。",
+    "hypothesis": "UAV-B报告：天气雷暴，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向北移动。",
+    "hypothesis": "UAV-B报告：目标正向北移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现1辆野战医疗队。",
+    "hypothesis": "UAV-B报告：该区域无任何电子战车辆。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现3辆通信基站。",
+    "hypothesis": "UAV-B报告：该区域无任何装甲指挥车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向西移动。",
+    "hypothesis": "UAV-B报告：自行火炮后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度300米。",
+    "hypothesis": "UAV-B报告：隧道入口存在铁丝网围栏。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为08:20。",
+    "hypothesis": "UAV-B报告：侦察时间为16:40。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气多云。",
+    "hypothesis": "UAV-B报告：信号强度偏弱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度2000米。",
+    "hypothesis": "UAV-B报告：C渡口存在混凝土路墩。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现5辆燃油补给车。",
+    "hypothesis": "UAV-B报告：该区域无任何侦察无人机。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向西移动。",
+    "hypothesis": "UAV-B报告：发现红外干扰弹。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度100米。",
+    "hypothesis": "UAV-B报告：发现伪装网覆盖。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间13:45。",
+    "hypothesis": "UAV-B报告：周边有废弃建筑。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为08:20。",
+    "hypothesis": "UAV-B报告：侦察时间为20:10。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于山顶观测点。",
+    "hypothesis": "UAV-B报告：目标位于雷达站周边。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于河谷北侧。",
+    "hypothesis": "UAV-B报告：目标位于C渡口。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间13:45。",
+    "hypothesis": "UAV-B报告：X区域存在积水漫道。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向西北移动。",
+    "hypothesis": "UAV-B报告：区域内有牲畜活动。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度为800米。",
+    "hypothesis": "UAV-B报告：目标高度为100米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现5辆装甲指挥车。",
+    "hypothesis": "UAV-B报告：该区域无任何电子战车辆。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间20:10。",
+    "hypothesis": "UAV-B报告：北侧有疑似哨位。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现少量无人机蜂群。",
+    "hypothesis": "UAV-B报告：该区域无任何装甲指挥车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为20:10。",
+    "hypothesis": "UAV-B报告：侦察时间为22:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现5辆电子战车辆。",
+    "hypothesis": "UAV-B报告：22:00区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间13:45。",
+    "hypothesis": "UAV-B报告：补给车队后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于C渡口。",
+    "hypothesis": "UAV-B报告：目标位于隧道入口。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向东南移动。",
+    "hypothesis": "UAV-B报告：装甲指挥车后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向西移动。",
+    "hypothesis": "UAV-B报告：目标正向南移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现大量无人机蜂群。",
+    "hypothesis": "UAV-B报告：该区域无任何指挥所。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间23:50。",
+    "hypothesis": "UAV-B报告：区域内有牲畜活动。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气多云。",
+    "hypothesis": "UAV-B报告：3号公路交叉口存在雷区标识。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现多辆燃油补给车。",
+    "hypothesis": "UAV-B报告：工业园区存在壕沟拦截。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向东南移动。",
+    "hypothesis": "UAV-B报告：指挥所后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于南部林区。",
+    "hypothesis": "UAV-B报告：目标位于废弃工厂。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间23:50。",
+    "hypothesis": "UAV-B报告：北侧有疑似哨位。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度为800米。",
+    "hypothesis": "UAV-B报告：目标高度为2000米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于雷达站周边。",
+    "hypothesis": "UAV-B报告：目标位于D村庄。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气沙尘，能见度良好。",
+    "hypothesis": "UAV-B报告：天气晴朗，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于Z高地。",
+    "hypothesis": "UAV-B报告：目标位于工业园区。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间08:20。",
+    "hypothesis": "UAV-B报告：油库附近存在树木倒伏。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于变电站北侧。",
+    "hypothesis": "UAV-B报告：目标位于南部林区。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于工业园区。",
+    "hypothesis": "UAV-B报告：目标位于水库大坝南侧。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为06:00。",
+    "hypothesis": "UAV-B报告：侦察时间为14:15。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气大雾，能见度良好。",
+    "hypothesis": "UAV-B报告：天气多云，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于Y区域。",
+    "hypothesis": "UAV-B报告：防空导弹系统后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间08:20。",
+    "hypothesis": "UAV-B报告：变电站北侧存在铁丝网围栏。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向东移动。",
+    "hypothesis": "UAV-B报告：目标正向南移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气小雨。",
+    "hypothesis": "UAV-B报告：18:00区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度500米。",
+    "hypothesis": "UAV-B报告：D村庄存在雷区标识。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气阴天，能见度良好。",
+    "hypothesis": "UAV-B报告：天气小雨，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度200米。",
+    "hypothesis": "UAV-B报告：雷达站后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间08:20。",
+    "hypothesis": "UAV-B报告：地面潮湿有泥泞。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于东侧山脊。",
+    "hypothesis": "UAV-B报告：目标位于变电站北侧。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于D村庄。",
+    "hypothesis": "UAV-B报告：D村庄存在大量障碍物。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度200米。",
+    "hypothesis": "UAV-B报告：水库大坝南侧存在混凝土路墩。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向北移动。",
+    "hypothesis": "UAV-B报告：目标正向东北移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度2000米。",
+    "hypothesis": "UAV-B报告：B高地存在积水漫道。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于A阵地。",
+    "hypothesis": "UAV-B报告：目标位于河谷北侧。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向东南移动。",
+    "hypothesis": "UAV-B报告：电子战车辆后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气大雾，能见度良好。",
+    "hypothesis": "UAV-B报告：天气雷暴，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度300米。",
+    "hypothesis": "UAV-B报告：无人机蜂群后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现2辆指挥所。",
+    "hypothesis": "UAV-B报告：该区域无任何反坦克导弹阵地。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向东南移动。",
+    "hypothesis": "UAV-B报告：发现新挖掘痕迹。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间16:40。",
+    "hypothesis": "UAV-B报告：08:20区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气阴天。",
+    "hypothesis": "UAV-B报告：23:50区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气雷暴。",
+    "hypothesis": "UAV-B报告：14:15区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于D村庄。",
+    "hypothesis": "UAV-B报告：防空导弹系统后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间14:15。",
+    "hypothesis": "UAV-B报告：12:00区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于Z高地。",
+    "hypothesis": "UAV-B报告：热信号微弱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向东南移动。",
+    "hypothesis": "UAV-B报告：目标正向西南移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于废弃工厂。",
+    "hypothesis": "UAV-B报告：使用跳频技术。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间20:10。",
+    "hypothesis": "UAV-B报告：装甲指挥车后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度2000米。",
+    "hypothesis": "UAV-B报告：20:10区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现4辆通信基站。",
+    "hypothesis": "UAV-B报告：通信基站后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为23:50。",
+    "hypothesis": "UAV-B报告：侦察时间为18:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现大量自行火炮。",
+    "hypothesis": "UAV-B报告：该区域无任何无人机蜂群。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度1200米。",
+    "hypothesis": "UAV-B报告：变电站北侧存在大量障碍物。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于河谷北侧。",
+    "hypothesis": "UAV-B报告：目标位于B高地。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间16:40。",
+    "hypothesis": "UAV-B报告：B高地存在壕沟拦截。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现2辆电子战车辆。",
+    "hypothesis": "UAV-B报告：D村庄存在临时路障。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于3号公路交叉口。",
+    "hypothesis": "UAV-B报告：周边有废弃建筑。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度为2000米。",
+    "hypothesis": "UAV-B报告：目标高度为1000米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向西南移动。",
+    "hypothesis": "UAV-B报告：目标正向西南移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现少量火箭炮阵地。",
+    "hypothesis": "UAV-B报告：隧道入口存在积水漫道。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于A阵地。",
+    "hypothesis": "UAV-B报告：山顶观测点存在车辆残骸。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度为200米。",
+    "hypothesis": "UAV-B报告：目标高度为1000米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气雷暴，能见度良好。",
+    "hypothesis": "UAV-B报告：天气晴朗，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为12:00。",
+    "hypothesis": "UAV-B报告：侦察时间为19:30。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向东移动。",
+    "hypothesis": "UAV-B报告：目标正向西北移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向北移动。",
+    "hypothesis": "UAV-B报告：指挥所后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于机场跑道末端。",
+    "hypothesis": "UAV-B报告：20:10区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为19:30。",
+    "hypothesis": "UAV-B报告：侦察时间为16:40。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间19:30。",
+    "hypothesis": "UAV-B报告：变电站北侧存在临时路障。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气大雾，能见度良好。",
+    "hypothesis": "UAV-B报告：天气大雾，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为12:00。",
+    "hypothesis": "UAV-B报告：侦察时间为08:20。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现3辆雷达站。",
+    "hypothesis": "UAV-B报告：该区域无任何自行火炮。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气暴雨，能见度良好。",
+    "hypothesis": "UAV-B报告：天气大雾，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向东北移动。",
+    "hypothesis": "UAV-B报告：目标正向东南移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现多辆燃油补给车。",
+    "hypothesis": "UAV-B报告：该区域无任何工程保障车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于变电站北侧。",
+    "hypothesis": "UAV-B报告：目标位于变电站北侧。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现无指挥所。",
+    "hypothesis": "UAV-B报告：该区域无任何轻型卡车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于北部平原。",
+    "hypothesis": "UAV-B报告：06:00区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于废弃工厂。",
+    "hypothesis": "UAV-B报告：22:00区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现多辆通信基站。",
+    "hypothesis": "UAV-B报告：该区域无任何侦察无人机。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于D村庄。",
+    "hypothesis": "UAV-B报告：10:30区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为10:30。",
+    "hypothesis": "UAV-B报告：侦察时间为08:20。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于机场跑道末端。",
+    "hypothesis": "UAV-B报告：南部林区存在铁丝网围栏。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为18:00。",
+    "hypothesis": "UAV-B报告：侦察时间为22:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于水库大坝南侧。",
+    "hypothesis": "UAV-B报告：东侧有临时掩体。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向南移动。",
+    "hypothesis": "UAV-B报告：工程保障车后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气小雨。",
+    "hypothesis": "UAV-B报告：山顶观测点存在铁丝网围栏。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向西北移动。",
+    "hypothesis": "UAV-B报告：目标正向南移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为22:00。",
+    "hypothesis": "UAV-B报告：侦察时间为08:20。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于废弃工厂。",
+    "hypothesis": "UAV-B报告：目标位于C渡口。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间08:20。",
+    "hypothesis": "UAV-B报告：废弃工厂存在积水漫道。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间23:50。",
+    "hypothesis": "UAV-B报告：电磁环境复杂。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向南移动。",
+    "hypothesis": "UAV-B报告：22:00区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为08:20。",
+    "hypothesis": "UAV-B报告：侦察时间为19:30。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间13:45。",
+    "hypothesis": "UAV-B报告：东侧山脊存在大量障碍物。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于Z高地。",
+    "hypothesis": "UAV-B报告：19:30区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间16:40。",
+    "hypothesis": "UAV-B报告：铁路桥西端存在铁丝网围栏。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向东移动。",
+    "hypothesis": "UAV-B报告：发现红外干扰弹。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度1500米。",
+    "hypothesis": "UAV-B报告：13:45区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向北移动。",
+    "hypothesis": "UAV-B报告：目标正向西南移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度300米。",
+    "hypothesis": "UAV-B报告：单兵无人机后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现大量指挥所。",
+    "hypothesis": "UAV-B报告：18:00区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度为2000米。",
+    "hypothesis": "UAV-B报告：目标高度为500米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气阴天。",
+    "hypothesis": "UAV-B报告：工程保障车后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为19:30。",
+    "hypothesis": "UAV-B报告：侦察时间为18:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气浓雾，能见度良好。",
+    "hypothesis": "UAV-B报告：天气暴雨，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向东北移动。",
+    "hypothesis": "UAV-B报告：目标正向北移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现2辆反坦克导弹阵地。",
+    "hypothesis": "UAV-B报告：该区域无任何通信中继车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为14:15。",
+    "hypothesis": "UAV-B报告：侦察时间为19:30。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于北部平原。",
+    "hypothesis": "UAV-B报告：目标位于河谷北侧。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为500米。",
+    "hypothesis": "UAV-B报告：目标高度为2000米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于油库附近。",
+    "hypothesis": "UAV-B报告：目标位于Y区域。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于变电站北侧。",
+    "hypothesis": "UAV-B报告：目标位于码头区域。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于Z高地。",
+    "hypothesis": "UAV-B报告：目标位于X区域。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向东南移动。",
+    "hypothesis": "UAV-B报告：热信号微弱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间19:30。",
+    "hypothesis": "UAV-B报告：油库附近存在雷区标识。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度1500米。",
+    "hypothesis": "UAV-B报告：地面潮湿有泥泞。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于雷达站周边。",
+    "hypothesis": "UAV-B报告：油库附近存在大量障碍物。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现4辆通信基站。",
+    "hypothesis": "UAV-B报告：该区域无任何步兵战车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为23:50。",
+    "hypothesis": "UAV-B报告：侦察时间为13:45。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于B高地。",
+    "hypothesis": "UAV-B报告：使用跳频技术。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向西移动。",
+    "hypothesis": "UAV-B报告：22:00区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向西移动。",
+    "hypothesis": "UAV-B报告：无人机蜂群后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现少量装甲指挥车。",
+    "hypothesis": "UAV-B报告：该区域无任何侦察无人机。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度1500米。",
+    "hypothesis": "UAV-B报告：峡谷出口存在临时路障。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现大量火箭炮阵地。",
+    "hypothesis": "UAV-B报告：该区域无任何无人机蜂群。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度1500米。",
+    "hypothesis": "UAV-B报告：19:30区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于变电站北侧。",
+    "hypothesis": "UAV-B报告：目标位于C渡口。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现3辆装甲指挥车。",
+    "hypothesis": "UAV-B报告：该区域无任何侦察无人机。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度1200米。",
+    "hypothesis": "UAV-B报告：23:50区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现3辆工程保障车。",
+    "hypothesis": "UAV-B报告：该区域无任何轻型卡车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于山顶观测点。",
+    "hypothesis": "UAV-B报告：轻型卡车后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度1000米。",
+    "hypothesis": "UAV-B报告：通信信号间歇中断。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向东北移动。",
+    "hypothesis": "UAV-B报告：目标正向西南移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向北移动。",
+    "hypothesis": "UAV-B报告：目标正向西北移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为16:40。",
+    "hypothesis": "UAV-B报告：侦察时间为22:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间10:30。",
+    "hypothesis": "UAV-B报告：23:50区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于雷达站周边。",
+    "hypothesis": "UAV-B报告：目标位于码头区域。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为200米。",
+    "hypothesis": "UAV-B报告：目标高度为500米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为500米。",
+    "hypothesis": "UAV-B报告：目标高度为300米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于变电站北侧。",
+    "hypothesis": "UAV-B报告：目标位于峡谷出口。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为300米。",
+    "hypothesis": "UAV-B报告：目标高度为1500米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为800米。",
+    "hypothesis": "UAV-B报告：目标高度为800米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气暴雨。",
+    "hypothesis": "UAV-B报告：发现红外干扰弹。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向西北移动。",
+    "hypothesis": "UAV-B报告：火箭炮阵地后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向北移动。",
+    "hypothesis": "UAV-B报告：通信信号间歇中断。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为12:00。",
+    "hypothesis": "UAV-B报告：侦察时间为06:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为20:10。",
+    "hypothesis": "UAV-B报告：侦察时间为16:40。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气多云，能见度良好。",
+    "hypothesis": "UAV-B报告：天气雷暴，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为14:15。",
+    "hypothesis": "UAV-B报告：侦察时间为12:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为14:15。",
+    "hypothesis": "UAV-B报告：侦察时间为13:45。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现少量火箭炮阵地。",
+    "hypothesis": "UAV-B报告：该区域无任何燃油补给车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于西侧洼地。",
+    "hypothesis": "UAV-B报告：目标位于A阵地。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为13:45。",
+    "hypothesis": "UAV-B报告：侦察时间为23:50。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度1000米。",
+    "hypothesis": "UAV-B报告：发现红外干扰弹。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度100米。",
+    "hypothesis": "UAV-B报告：14:15区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为06:00。",
+    "hypothesis": "UAV-B报告：侦察时间为10:30。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现3辆补给车队。",
+    "hypothesis": "UAV-B报告：电子战车辆后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向南移动。",
+    "hypothesis": "UAV-B报告：20:10区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现5辆通信基站。",
+    "hypothesis": "UAV-B报告：该区域无任何侦察无人机。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于D村庄。",
+    "hypothesis": "UAV-B报告：目标位于南部林区。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为300米。",
+    "hypothesis": "UAV-B报告：目标高度为1200米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于隧道入口。",
+    "hypothesis": "UAV-B报告：指挥所后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气中雨。",
+    "hypothesis": "UAV-B报告：探测到低频振动。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现1辆通信基站。",
+    "hypothesis": "UAV-B报告：18:00区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度800米。",
+    "hypothesis": "UAV-B报告：指挥所后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现大量补给车队。",
+    "hypothesis": "UAV-B报告：18:00区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为20:10。",
+    "hypothesis": "UAV-B报告：侦察时间为08:20。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现少量通信中继车。",
+    "hypothesis": "UAV-B报告：该区域无任何火箭炮阵地。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气大雾。",
+    "hypothesis": "UAV-B报告：14:15区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向西北移动。",
+    "hypothesis": "UAV-B报告：使用跳频技术。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间08:20。",
+    "hypothesis": "UAV-B报告：通信基站后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向西南移动。",
+    "hypothesis": "UAV-B报告：目标正向北移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于隧道入口。",
+    "hypothesis": "UAV-B报告：目标位于水库大坝南侧。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于北部平原。",
+    "hypothesis": "UAV-B报告：目标位于雷达站周边。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于隧道入口。",
+    "hypothesis": "UAV-B报告：目标位于河谷北侧。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于西侧洼地。",
+    "hypothesis": "UAV-B报告：目标位于峡谷出口。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度2000米。",
+    "hypothesis": "UAV-B报告：废弃工厂存在壕沟拦截。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现少量步兵战车。",
+    "hypothesis": "UAV-B报告：该区域无任何防空导弹系统。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气浓雾，能见度良好。",
+    "hypothesis": "UAV-B报告：天气中雨，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现多辆轻型卡车。",
+    "hypothesis": "UAV-B报告：该区域无任何反坦克导弹阵地。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现大量单兵无人机。",
+    "hypothesis": "UAV-B报告：该区域无任何燃油补给车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度1200米。",
+    "hypothesis": "UAV-B报告：20:10区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气晴朗，能见度良好。",
+    "hypothesis": "UAV-B报告：天气浓雾，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于雷达站周边。",
+    "hypothesis": "UAV-B报告：废弃工厂存在积水漫道。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为13:45。",
+    "hypothesis": "UAV-B报告：侦察时间为08:20。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为300米。",
+    "hypothesis": "UAV-B报告：目标高度为1000米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度2000米。",
+    "hypothesis": "UAV-B报告：16:40区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现少量雷达站。",
+    "hypothesis": "UAV-B报告：该区域无任何无人机蜂群。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于隧道入口。",
+    "hypothesis": "UAV-B报告：目标位于峡谷出口。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现1辆步兵战车。",
+    "hypothesis": "UAV-B报告：电磁环境复杂。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现无通信基站。",
+    "hypothesis": "UAV-B报告：废弃工厂存在树木倒伏。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为19:30。",
+    "hypothesis": "UAV-B报告：侦察时间为06:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于雷达站周边。",
+    "hypothesis": "UAV-B报告：工程保障车后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现大量轻型卡车。",
+    "hypothesis": "UAV-B报告：该区域无任何指挥所。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度1500米。",
+    "hypothesis": "UAV-B报告：风速15节。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度1000米。",
+    "hypothesis": "UAV-B报告：18:00区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为23:50。",
+    "hypothesis": "UAV-B报告：侦察时间为23:50。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于山顶观测点。",
+    "hypothesis": "UAV-B报告：目标位于B高地。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为2000米。",
+    "hypothesis": "UAV-B报告：目标高度为200米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气雷暴。",
+    "hypothesis": "UAV-B报告：隧道入口存在大量障碍物。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现4辆单兵无人机。",
+    "hypothesis": "UAV-B报告：该区域无任何火箭炮阵地。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向西移动。",
+    "hypothesis": "UAV-B报告：电磁环境复杂。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于变电站北侧。",
+    "hypothesis": "UAV-B报告：探测到低频振动。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为20:10。",
+    "hypothesis": "UAV-B报告：侦察时间为19:30。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现少量反坦克导弹阵地。",
+    "hypothesis": "UAV-B报告：该区域无任何野战医疗队。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气浓雾，能见度良好。",
+    "hypothesis": "UAV-B报告：天气沙尘，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于码头区域。",
+    "hypothesis": "UAV-B报告：目标位于隧道入口。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现多辆反坦克导弹阵地。",
+    "hypothesis": "UAV-B报告：20:10区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度为100米。",
+    "hypothesis": "UAV-B报告：目标高度为1500米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间08:20。",
+    "hypothesis": "UAV-B报告：周边有废弃建筑。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向西移动。",
+    "hypothesis": "UAV-B报告：南侧桥梁完好。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于X区域。",
+    "hypothesis": "UAV-B报告：目标位于山顶观测点。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为19:30。",
+    "hypothesis": "UAV-B报告：侦察时间为22:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为12:00。",
+    "hypothesis": "UAV-B报告：侦察时间为13:45。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现3辆野战医疗队。",
+    "hypothesis": "UAV-B报告：X区域存在雷区标识。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度为1000米。",
+    "hypothesis": "UAV-B报告：目标高度为2000米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为12:00。",
+    "hypothesis": "UAV-B报告：侦察时间为23:50。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度500米。",
+    "hypothesis": "UAV-B报告：08:20区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现3辆通信中继车。",
+    "hypothesis": "UAV-B报告：通信信号间歇中断。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气沙尘。",
+    "hypothesis": "UAV-B报告：峡谷出口存在大量障碍物。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现1辆雷达站。",
+    "hypothesis": "UAV-B报告：该区域无任何工程保障车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气雷暴。",
+    "hypothesis": "UAV-B报告：反坦克导弹阵地后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度300米。",
+    "hypothesis": "UAV-B报告：12:00区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现2辆通信中继车。",
+    "hypothesis": "UAV-B报告：该区域无任何补给车队。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于Y区域。",
+    "hypothesis": "UAV-B报告：目标位于油库附近。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现5辆工程保障车。",
+    "hypothesis": "UAV-B报告：该区域无任何补给车队。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气暴雨。",
+    "hypothesis": "UAV-B报告：空中有鸟群干扰。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气沙尘。",
+    "hypothesis": "UAV-B报告：自行火炮后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气晴朗。",
+    "hypothesis": "UAV-B报告：山顶观测点存在树木倒伏。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现5辆指挥所。",
+    "hypothesis": "UAV-B报告：该区域无任何通信基站。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向北移动。",
+    "hypothesis": "UAV-B报告：峡谷出口存在车辆残骸。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度1500米。",
+    "hypothesis": "UAV-B报告：防空导弹系统后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气沙尘。",
+    "hypothesis": "UAV-B报告：步兵战车后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向东北移动。",
+    "hypothesis": "UAV-B报告：GPS精度下降。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气浓雾。",
+    "hypothesis": "UAV-B报告：指挥所后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度1000米。",
+    "hypothesis": "UAV-B报告：指挥所后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度500米。",
+    "hypothesis": "UAV-B报告：X区域存在桥梁损毁。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度为2000米。",
+    "hypothesis": "UAV-B报告：目标高度为800米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向西移动。",
+    "hypothesis": "UAV-B报告：3号公路交叉口存在混凝土路墩。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向西南移动。",
+    "hypothesis": "UAV-B报告：目标正向东北移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向东移动。",
+    "hypothesis": "UAV-B报告：目标正向东南移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向东移动。",
+    "hypothesis": "UAV-B报告：目标正向西移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向东北移动。",
+    "hypothesis": "UAV-B报告：目标正向东移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气晴朗，能见度良好。",
+    "hypothesis": "UAV-B报告：天气小雨，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于A阵地。",
+    "hypothesis": "UAV-B报告：南部林区存在车辆残骸。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气晴朗。",
+    "hypothesis": "UAV-B报告：指挥所后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现少量补给车队。",
+    "hypothesis": "UAV-B报告：该区域无任何燃油补给车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为500米。",
+    "hypothesis": "UAV-B报告：目标高度为500米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气浓雾。",
+    "hypothesis": "UAV-B报告：C渡口存在积水漫道。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气沙尘。",
+    "hypothesis": "UAV-B报告：电子战车辆后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于雷达站周边。",
+    "hypothesis": "UAV-B报告：热信号微弱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现5辆无人机蜂群。",
+    "hypothesis": "UAV-B报告：该区域无任何野战医疗队。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于铁路桥西端。",
+    "hypothesis": "UAV-B报告：工程保障车后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于工业园区。",
+    "hypothesis": "UAV-B报告：目标位于北部平原。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向西南移动。",
+    "hypothesis": "UAV-B报告：目标正向东南移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向北移动。",
+    "hypothesis": "UAV-B报告：雷达站周边存在树木倒伏。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现4辆电子战车辆。",
+    "hypothesis": "UAV-B报告：13:45区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为12:00。",
+    "hypothesis": "UAV-B报告：侦察时间为12:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间06:00。",
+    "hypothesis": "UAV-B报告：火箭炮阵地后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为20:10。",
+    "hypothesis": "UAV-B报告：侦察时间为18:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向东移动。",
+    "hypothesis": "UAV-B报告：单兵无人机后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于A阵地。",
+    "hypothesis": "UAV-B报告：18:00区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于X区域。",
+    "hypothesis": "UAV-B报告：23:50区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向东移动。",
+    "hypothesis": "UAV-B报告：Y区域存在混凝土路墩。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度500米。",
+    "hypothesis": "UAV-B报告：步兵战车后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向东北移动。",
+    "hypothesis": "UAV-B报告：火箭炮阵地后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于雷达站周边。",
+    "hypothesis": "UAV-B报告：3号公路交叉口存在雷区标识。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间19:30。",
+    "hypothesis": "UAV-B报告：19:30区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现5辆反坦克导弹阵地。",
+    "hypothesis": "UAV-B报告：峡谷出口存在车辆残骸。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度1200米。",
+    "hypothesis": "UAV-B报告：发现伪装网覆盖。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标已沉默。",
+    "hypothesis": "UAV-B报告：目标热信号清晰。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向北移动。",
+    "hypothesis": "UAV-B报告：08:20区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度300米。",
+    "hypothesis": "UAV-B报告：自行火炮后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为18:00。",
+    "hypothesis": "UAV-B报告：侦察时间为10:30。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气小雨。",
+    "hypothesis": "UAV-B报告：北部平原存在积水漫道。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向东北移动。",
+    "hypothesis": "UAV-B报告：单兵无人机后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气大雾，能见度良好。",
+    "hypothesis": "UAV-B报告：天气晴朗，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度200米。",
+    "hypothesis": "UAV-B报告：东侧有临时掩体。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于Y区域。",
+    "hypothesis": "UAV-B报告：目标位于河谷北侧。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现少量自行火炮。",
+    "hypothesis": "UAV-B报告：东侧山脊存在混凝土路墩。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间18:00。",
+    "hypothesis": "UAV-B报告：X区域存在车辆残骸。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间16:40。",
+    "hypothesis": "UAV-B报告：08:20区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气多云，能见度良好。",
+    "hypothesis": "UAV-B报告：天气暴雨，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向西移动。",
+    "hypothesis": "UAV-B报告：13:45区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现5辆工程保障车。",
+    "hypothesis": "UAV-B报告：该区域无任何工程保障车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度2000米。",
+    "hypothesis": "UAV-B报告：地面潮湿有泥泞。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为13:45。",
+    "hypothesis": "UAV-B报告：侦察时间为20:10。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于码头区域。",
+    "hypothesis": "UAV-B报告：06:00区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气多云。",
+    "hypothesis": "UAV-B报告：北部平原存在混凝土路墩。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向东南移动。",
+    "hypothesis": "UAV-B报告：目标正向东移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现无步兵战车。",
+    "hypothesis": "UAV-B报告：工程保障车后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气沙尘。",
+    "hypothesis": "UAV-B报告：16:40区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于河谷北侧。",
+    "hypothesis": "UAV-B报告：燃油补给车后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向南移动。",
+    "hypothesis": "UAV-B报告：轻型卡车后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于B高地。",
+    "hypothesis": "UAV-B报告：峡谷出口存在雷区标识。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度200米。",
+    "hypothesis": "UAV-B报告：地面有车辙。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间16:40。",
+    "hypothesis": "UAV-B报告：20:10区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向西南移动。",
+    "hypothesis": "UAV-B报告：08:20区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度200米。",
+    "hypothesis": "UAV-B报告：06:00区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度100米。",
+    "hypothesis": "UAV-B报告：南侧桥梁完好。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气暴雨，能见度良好。",
+    "hypothesis": "UAV-B报告：天气小雨，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现2辆步兵战车。",
+    "hypothesis": "UAV-B报告：该区域无任何通信中继车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间10:30。",
+    "hypothesis": "UAV-B报告：北侧有疑似哨位。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于X区域。",
+    "hypothesis": "UAV-B报告：使用跳频技术。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度为200米。",
+    "hypothesis": "UAV-B报告：目标高度为800米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气浓雾。",
+    "hypothesis": "UAV-B报告：08:20区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为18:00。",
+    "hypothesis": "UAV-B报告：侦察时间为16:40。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向北移动。",
+    "hypothesis": "UAV-B报告：工程保障车后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为23:50。",
+    "hypothesis": "UAV-B报告：侦察时间为12:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于机场跑道末端。",
+    "hypothesis": "UAV-B报告：20:10区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向北移动。",
+    "hypothesis": "UAV-B报告：发现伪装网覆盖。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气中雨，能见度良好。",
+    "hypothesis": "UAV-B报告：天气雷暴，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现大量雷达站。",
+    "hypothesis": "UAV-B报告：该区域无任何电子战车辆。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现4辆轻型卡车。",
+    "hypothesis": "UAV-B报告：隧道入口存在车辆残骸。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现无指挥所。",
+    "hypothesis": "UAV-B报告：该区域无任何装甲指挥车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气沙尘，能见度良好。",
+    "hypothesis": "UAV-B报告：天气暴雨，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现无补给车队。",
+    "hypothesis": "UAV-B报告：该区域无任何步兵战车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标已沉默。",
+    "hypothesis": "UAV-B报告：目标持续发射信号。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现2辆侦察无人机。",
+    "hypothesis": "UAV-B报告：雷达站后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于北部平原。",
+    "hypothesis": "UAV-B报告：电磁环境复杂。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向南移动。",
+    "hypothesis": "UAV-B报告：23:50区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间19:30。",
+    "hypothesis": "UAV-B报告：空中有鸟群干扰。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向西移动。",
+    "hypothesis": "UAV-B报告：电子战车辆后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为12:00。",
+    "hypothesis": "UAV-B报告：侦察时间为14:15。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于油库附近。",
+    "hypothesis": "UAV-B报告：目标位于机场跑道末端。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度1200米。",
+    "hypothesis": "UAV-B报告：A阵地存在临时路障。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气晴朗。",
+    "hypothesis": "UAV-B报告：发现伪装网覆盖。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度500米。",
+    "hypothesis": "UAV-B报告：16:40区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现少量通信中继车。",
+    "hypothesis": "UAV-B报告：工程保障车后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气雷暴，能见度良好。",
+    "hypothesis": "UAV-B报告：天气大雾，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于Z高地。",
+    "hypothesis": "UAV-B报告：目标位于C渡口。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向西北移动。",
+    "hypothesis": "UAV-B报告：雷达站后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于雷达站周边。",
+    "hypothesis": "UAV-B报告：水库大坝南侧存在树木倒伏。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度为1200米。",
+    "hypothesis": "UAV-B报告：目标高度为500米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现大量工程保障车。",
+    "hypothesis": "UAV-B报告：补给车队后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于变电站北侧。",
+    "hypothesis": "UAV-B报告：目标位于西侧洼地。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气多云，能见度良好。",
+    "hypothesis": "UAV-B报告：天气沙尘，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现5辆通信中继车。",
+    "hypothesis": "UAV-B报告：该区域无任何补给车队。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向东移动。",
+    "hypothesis": "UAV-B报告：目标正向东移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于东侧山脊。",
+    "hypothesis": "UAV-B报告：目标位于3号公路交叉口。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度300米。",
+    "hypothesis": "UAV-B报告：轻型卡车后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气大雾。",
+    "hypothesis": "UAV-B报告：码头区域存在积水漫道。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气沙尘，能见度良好。",
+    "hypothesis": "UAV-B报告：天气多云，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现1辆轻型卡车。",
+    "hypothesis": "UAV-B报告：东侧山脊存在车辆残骸。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向东南移动。",
+    "hypothesis": "UAV-B报告：南部林区存在雷区标识。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为14:15。",
+    "hypothesis": "UAV-B报告：侦察时间为14:15。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向东南移动。",
+    "hypothesis": "UAV-B报告：目标正向西北移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于B高地。",
+    "hypothesis": "UAV-B报告：目标位于Z高地。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现1辆单兵无人机。",
+    "hypothesis": "UAV-B报告：该区域无任何补给车队。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现3辆补给车队。",
+    "hypothesis": "UAV-B报告：工程保障车后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气晴朗。",
+    "hypothesis": "UAV-B报告：13:45区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气多云，能见度良好。",
+    "hypothesis": "UAV-B报告：天气中雨，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气暴雨，能见度良好。",
+    "hypothesis": "UAV-B报告：天气雷暴，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度200米。",
+    "hypothesis": "UAV-B报告：13:45区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于A阵地。",
+    "hypothesis": "UAV-B报告：20:10区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向东移动。",
+    "hypothesis": "UAV-B报告：10:30区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度800米。",
+    "hypothesis": "UAV-B报告：Y区域存在混凝土路墩。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气小雨。",
+    "hypothesis": "UAV-B报告：10:30区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间14:15。",
+    "hypothesis": "UAV-B报告：D村庄存在积水漫道。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向南移动。",
+    "hypothesis": "UAV-B报告：目标正向东北移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间20:10。",
+    "hypothesis": "UAV-B报告：16:40区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度500米。",
+    "hypothesis": "UAV-B报告：指挥所后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间10:30。",
+    "hypothesis": "UAV-B报告：油库附近存在车辆残骸。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于变电站北侧。",
+    "hypothesis": "UAV-B报告：目标位于X区域。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为1200米。",
+    "hypothesis": "UAV-B报告：目标高度为200米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为300米。",
+    "hypothesis": "UAV-B报告：目标高度为100米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现5辆无人机蜂群。",
+    "hypothesis": "UAV-B报告：发现红外干扰弹。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于码头区域。",
+    "hypothesis": "UAV-B报告：电磁环境复杂。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间20:10。",
+    "hypothesis": "UAV-B报告：电子战车辆后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现大量防空导弹系统。",
+    "hypothesis": "UAV-B报告：该区域无任何反坦克导弹阵地。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向西南移动。",
+    "hypothesis": "UAV-B报告：22:00区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气浓雾。",
+    "hypothesis": "UAV-B报告：河谷北侧存在混凝土路墩。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现多辆轻型卡车。",
+    "hypothesis": "UAV-B报告：该区域无任何自行火炮。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于南部林区。",
+    "hypothesis": "UAV-B报告：目标位于东侧山脊。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间19:30。",
+    "hypothesis": "UAV-B报告：B高地存在桥梁损毁。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气晴朗。",
+    "hypothesis": "UAV-B报告：通信中继车后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气暴雨。",
+    "hypothesis": "UAV-B报告：废弃工厂存在混凝土路墩。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于峡谷出口。",
+    "hypothesis": "UAV-B报告：目标位于油库附近。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间14:15。",
+    "hypothesis": "UAV-B报告：铁路桥西端存在雷区标识。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为13:45。",
+    "hypothesis": "UAV-B报告：侦察时间为18:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现大量燃油补给车。",
+    "hypothesis": "UAV-B报告：该区域无任何无人机蜂群。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为300米。",
+    "hypothesis": "UAV-B报告：目标高度为2000米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向西移动。",
+    "hypothesis": "UAV-B报告：目标正向西北移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向西南移动。",
+    "hypothesis": "UAV-B报告：目标正向南移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度1000米。",
+    "hypothesis": "UAV-B报告：22:00区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气晴朗。",
+    "hypothesis": "UAV-B报告：码头区域存在雷区标识。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于D村庄。",
+    "hypothesis": "UAV-B报告：空中有鸟群干扰。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为20:10。",
+    "hypothesis": "UAV-B报告：侦察时间为23:50。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向南移动。",
+    "hypothesis": "UAV-B报告：单兵无人机后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向东南移动。",
+    "hypothesis": "UAV-B报告：目标正向东南移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于D村庄。",
+    "hypothesis": "UAV-B报告：通信信号间歇中断。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现5辆轻型卡车。",
+    "hypothesis": "UAV-B报告：该区域无任何工程保障车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度1500米。",
+    "hypothesis": "UAV-B报告：18:00区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现5辆装甲运兵车。",
+    "hypothesis": "UAV-B报告：该区域无任何侦察无人机。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于油库附近。",
+    "hypothesis": "UAV-B报告：GPS精度下降。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为14:15。",
+    "hypothesis": "UAV-B报告：侦察时间为06:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于北部平原。",
+    "hypothesis": "UAV-B报告：热信号微弱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现大量自行火炮。",
+    "hypothesis": "UAV-B报告：该区域无任何通信基站。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现无装甲运兵车。",
+    "hypothesis": "UAV-B报告：该区域无任何单兵无人机。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气小雨。",
+    "hypothesis": "UAV-B报告：A阵地存在车辆残骸。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气小雨。",
+    "hypothesis": "UAV-B报告：周边有平民活动。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气浓雾。",
+    "hypothesis": "UAV-B报告：码头区域存在临时路障。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间22:00。",
+    "hypothesis": "UAV-B报告：22:00区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于峡谷出口。",
+    "hypothesis": "UAV-B报告：19:30区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气小雨，能见度良好。",
+    "hypothesis": "UAV-B报告：天气沙尘，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为06:00。",
+    "hypothesis": "UAV-B报告：侦察时间为23:50。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于南部林区。",
+    "hypothesis": "UAV-B报告：目标位于Y区域。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于峡谷出口。",
+    "hypothesis": "UAV-B报告：油库附近存在壕沟拦截。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向东北移动。",
+    "hypothesis": "UAV-B报告：目标正向西移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向西南移动。",
+    "hypothesis": "UAV-B报告：20:10区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于峡谷出口。",
+    "hypothesis": "UAV-B报告：目标位于东侧山脊。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度200米。",
+    "hypothesis": "UAV-B报告：16:40区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气小雨，能见度良好。",
+    "hypothesis": "UAV-B报告：天气暴雨，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气大雾。",
+    "hypothesis": "UAV-B报告：东侧有临时掩体。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现3辆侦察无人机。",
+    "hypothesis": "UAV-B报告：该区域无任何单兵无人机。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现大量工程保障车。",
+    "hypothesis": "UAV-B报告：工业园区存在大量障碍物。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现4辆通信基站。",
+    "hypothesis": "UAV-B报告：该区域无任何装甲指挥车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现1辆通信中继车。",
+    "hypothesis": "UAV-B报告：该区域无任何通信基站。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于油库附近。",
+    "hypothesis": "UAV-B报告：目标位于水库大坝南侧。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于山顶观测点。",
+    "hypothesis": "UAV-B报告：工程保障车后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现大量装甲运兵车。",
+    "hypothesis": "UAV-B报告：该区域无任何步兵战车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间20:10。",
+    "hypothesis": "UAV-B报告：空中有鸟群干扰。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度为1200米。",
+    "hypothesis": "UAV-B报告：目标高度为100米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气阴天，能见度良好。",
+    "hypothesis": "UAV-B报告：天气雷暴，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于A阵地。",
+    "hypothesis": "UAV-B报告：峡谷出口存在桥梁损毁。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于水库大坝南侧。",
+    "hypothesis": "UAV-B报告：反坦克导弹阵地后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现2辆通信基站。",
+    "hypothesis": "UAV-B报告：该区域无任何单兵无人机。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为22:00。",
+    "hypothesis": "UAV-B报告：侦察时间为19:30。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为1500米。",
+    "hypothesis": "UAV-B报告：目标高度为2000米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于A阵地。",
+    "hypothesis": "UAV-B报告：20:10区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现5辆补给车队。",
+    "hypothesis": "UAV-B报告：该区域无任何雷达站。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现大量反坦克导弹阵地。",
+    "hypothesis": "UAV-B报告：该区域无任何火箭炮阵地。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气雷暴，能见度良好。",
+    "hypothesis": "UAV-B报告：天气阴天，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气多云，能见度良好。",
+    "hypothesis": "UAV-B报告：天气浓雾，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气雷暴，能见度良好。",
+    "hypothesis": "UAV-B报告：天气沙尘，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气小雨。",
+    "hypothesis": "UAV-B报告：火箭炮阵地后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现3辆装甲运兵车。",
+    "hypothesis": "UAV-B报告：08:20区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现1辆火箭炮阵地。",
+    "hypothesis": "UAV-B报告：该区域无任何野战医疗队。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向西北移动。",
+    "hypothesis": "UAV-B报告：工业园区存在混凝土路墩。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气晴朗，能见度良好。",
+    "hypothesis": "UAV-B报告：天气阴天，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于水库大坝南侧。",
+    "hypothesis": "UAV-B报告：步兵战车后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现少量反坦克导弹阵地。",
+    "hypothesis": "UAV-B报告：信号强度偏弱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气多云，能见度良好。",
+    "hypothesis": "UAV-B报告：天气小雨，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气浓雾。",
+    "hypothesis": "UAV-B报告：地面潮湿有泥泞。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于A阵地。",
+    "hypothesis": "UAV-B报告：目标位于变电站北侧。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向西南移动。",
+    "hypothesis": "UAV-B报告：火箭炮阵地后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现大量工程保障车。",
+    "hypothesis": "UAV-B报告：该区域无任何单兵无人机。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向西北移动。",
+    "hypothesis": "UAV-B报告：目标正向东南移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现1辆野战医疗队。",
+    "hypothesis": "UAV-B报告：该区域无任何燃油补给车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现5辆通信中继车。",
+    "hypothesis": "UAV-B报告：该区域无任何通信中继车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为16:40。",
+    "hypothesis": "UAV-B报告：侦察时间为14:15。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标无生命迹象。",
+    "hypothesis": "UAV-B报告：目标仍在活动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于A阵地。",
+    "hypothesis": "UAV-B报告：目标位于隧道入口。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于油库附近。",
+    "hypothesis": "UAV-B报告：目标位于铁路桥西端。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气暴雨，能见度良好。",
+    "hypothesis": "UAV-B报告：天气阴天，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为19:30。",
+    "hypothesis": "UAV-B报告：侦察时间为12:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气雷暴，能见度良好。",
+    "hypothesis": "UAV-B报告：天气浓雾，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现1辆火箭炮阵地。",
+    "hypothesis": "UAV-B报告：该区域无任何燃油补给车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为500米。",
+    "hypothesis": "UAV-B报告：目标高度为200米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向西北移动。",
+    "hypothesis": "UAV-B报告：补给车队后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度为1200米。",
+    "hypothesis": "UAV-B报告：目标高度为1200米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气沙尘。",
+    "hypothesis": "UAV-B报告：使用跳频技术。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现2辆通信基站。",
+    "hypothesis": "UAV-B报告：该区域无任何轻型卡车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于河谷北侧。",
+    "hypothesis": "UAV-B报告：目标位于3号公路交叉口。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为16:40。",
+    "hypothesis": "UAV-B报告：侦察时间为13:45。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度200米。",
+    "hypothesis": "UAV-B报告：无人机蜂群后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于北部平原。",
+    "hypothesis": "UAV-B报告：燃油补给车后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于隧道入口。",
+    "hypothesis": "UAV-B报告：通信基站后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现大量自行火炮。",
+    "hypothesis": "UAV-B报告：通信中继车后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气暴雨，能见度良好。",
+    "hypothesis": "UAV-B报告：天气多云，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标已摧毁。",
+    "hypothesis": "UAV-B报告：目标仍在活动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向南移动。",
+    "hypothesis": "UAV-B报告：目标正向东南移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度1000米。",
+    "hypothesis": "UAV-B报告：22:00区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度1200米。",
+    "hypothesis": "UAV-B报告：自行火炮后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向西移动。",
+    "hypothesis": "UAV-B报告：目标正向东移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间23:50。",
+    "hypothesis": "UAV-B报告：电子战车辆后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度1000米。",
+    "hypothesis": "UAV-B报告：Z高地存在车辆残骸。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现多辆单兵无人机。",
+    "hypothesis": "UAV-B报告：该区域无任何步兵战车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现5辆火箭炮阵地。",
+    "hypothesis": "UAV-B报告：地面潮湿有泥泞。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度500米。",
+    "hypothesis": "UAV-B报告：北侧有疑似哨位。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现3辆工程保障车。",
+    "hypothesis": "UAV-B报告：该区域无任何电子战车辆。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于3号公路交叉口。",
+    "hypothesis": "UAV-B报告：目标位于变电站北侧。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为22:00。",
+    "hypothesis": "UAV-B报告：侦察时间为23:50。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于码头区域。",
+    "hypothesis": "UAV-B报告：目标位于废弃工厂。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现1辆通信基站。",
+    "hypothesis": "UAV-B报告：该区域无任何装甲指挥车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为300米。",
+    "hypothesis": "UAV-B报告：目标高度为200米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为800米。",
+    "hypothesis": "UAV-B报告：目标高度为1500米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气阴天。",
+    "hypothesis": "UAV-B报告：废弃工厂存在铁丝网围栏。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间20:10。",
+    "hypothesis": "UAV-B报告：周边有废弃建筑。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现1辆单兵无人机。",
+    "hypothesis": "UAV-B报告：该区域无任何轻型卡车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向东北移动。",
+    "hypothesis": "UAV-B报告：雷达站后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间12:00。",
+    "hypothesis": "UAV-B报告：码头区域存在临时路障。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气大雾。",
+    "hypothesis": "UAV-B报告：使用跳频技术。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现无野战医疗队。",
+    "hypothesis": "UAV-B报告：该区域无任何雷达站。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气多云，能见度良好。",
+    "hypothesis": "UAV-B报告：天气晴朗，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为500米。",
+    "hypothesis": "UAV-B报告：目标高度为1500米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度300米。",
+    "hypothesis": "UAV-B报告：B高地存在临时路障。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于B高地。",
+    "hypothesis": "UAV-B报告：目标位于雷达站周边。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向北移动。",
+    "hypothesis": "UAV-B报告：燃油补给车后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向北移动。",
+    "hypothesis": "UAV-B报告：10:30区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度为1000米。",
+    "hypothesis": "UAV-B报告：目标高度为500米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度800米。",
+    "hypothesis": "UAV-B报告：雷达站后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现少量步兵战车。",
+    "hypothesis": "UAV-B报告：通信中继车后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现4辆侦察无人机。",
+    "hypothesis": "UAV-B报告：该区域无任何步兵战车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为500米。",
+    "hypothesis": "UAV-B报告：目标高度为800米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为1000米。",
+    "hypothesis": "UAV-B报告：目标高度为200米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于峡谷出口。",
+    "hypothesis": "UAV-B报告：目标位于机场跑道末端。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为100米。",
+    "hypothesis": "UAV-B报告：目标高度为300米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间12:00。",
+    "hypothesis": "UAV-B报告：通信中继车后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气雷暴。",
+    "hypothesis": "UAV-B报告：野战医疗队后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现1辆火箭炮阵地。",
+    "hypothesis": "UAV-B报告：该区域无任何通信中继车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气浓雾。",
+    "hypothesis": "UAV-B报告：16:40区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现3辆防空导弹系统。",
+    "hypothesis": "UAV-B报告：该区域无任何侦察无人机。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现无雷达站。",
+    "hypothesis": "UAV-B报告：单兵无人机后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为08:20。",
+    "hypothesis": "UAV-B报告：侦察时间为13:45。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气晴朗，能见度良好。",
+    "hypothesis": "UAV-B报告：天气暴雨，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为1500米。",
+    "hypothesis": "UAV-B报告：目标高度为1000米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向东南移动。",
+    "hypothesis": "UAV-B报告：目标正向东北移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现大量补给车队。",
+    "hypothesis": "UAV-B报告：该区域无任何自行火炮。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气小雨。",
+    "hypothesis": "UAV-B报告：地面有车辙。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度为300米。",
+    "hypothesis": "UAV-B报告：目标高度为800米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向西移动。",
+    "hypothesis": "UAV-B报告：发现新挖掘痕迹。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于隧道入口。",
+    "hypothesis": "UAV-B报告：目标位于A阵地。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于南部林区。",
+    "hypothesis": "UAV-B报告：20:10区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现2辆通信基站。",
+    "hypothesis": "UAV-B报告：通信中继车后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于Y区域。",
+    "hypothesis": "UAV-B报告：13:45区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为06:00。",
+    "hypothesis": "UAV-B报告：侦察时间为08:20。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现少量通信中继车。",
+    "hypothesis": "UAV-B报告：铁路桥西端存在桥梁损毁。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向西北移动。",
+    "hypothesis": "UAV-B报告：目标正向北移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间14:15。",
+    "hypothesis": "UAV-B报告：侦察无人机后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标无生命迹象。",
+    "hypothesis": "UAV-B报告：目标热信号清晰。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现少量工程保障车。",
+    "hypothesis": "UAV-B报告：周边有平民活动。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气雷暴，能见度良好。",
+    "hypothesis": "UAV-B报告：天气多云，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向东南移动。",
+    "hypothesis": "UAV-B报告：无人机蜂群后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度1000米。",
+    "hypothesis": "UAV-B报告：19:30区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气中雨。",
+    "hypothesis": "UAV-B报告：A阵地存在积水漫道。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向东北移动。",
+    "hypothesis": "UAV-B报告：目标正向西北移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气多云。",
+    "hypothesis": "UAV-B报告：装甲运兵车后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向西移动。",
+    "hypothesis": "UAV-B报告：目标正向东南移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现2辆无人机蜂群。",
+    "hypothesis": "UAV-B报告：变电站北侧存在车辆残骸。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气沙尘。",
+    "hypothesis": "UAV-B报告：19:30区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度为100米。",
+    "hypothesis": "UAV-B报告：目标高度为200米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气小雨。",
+    "hypothesis": "UAV-B报告：空中有鸟群干扰。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为22:00。",
+    "hypothesis": "UAV-B报告：侦察时间为13:45。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为18:00。",
+    "hypothesis": "UAV-B报告：侦察时间为06:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于山顶观测点。",
+    "hypothesis": "UAV-B报告：目标位于D村庄。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向东南移动。",
+    "hypothesis": "UAV-B报告：08:20区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为13:45。",
+    "hypothesis": "UAV-B报告：侦察时间为12:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于北部平原。",
+    "hypothesis": "UAV-B报告：目标位于东侧山脊。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气大雾。",
+    "hypothesis": "UAV-B报告：燃油补给车后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气阴天，能见度良好。",
+    "hypothesis": "UAV-B报告：天气暴雨，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现无无人机蜂群。",
+    "hypothesis": "UAV-B报告：该区域无任何通信基站。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于隧道入口。",
+    "hypothesis": "UAV-B报告：目标位于D村庄。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向南移动。",
+    "hypothesis": "UAV-B报告：防空导弹系统后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现1辆野战医疗队。",
+    "hypothesis": "UAV-B报告：该区域无任何装甲运兵车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气小雨，能见度良好。",
+    "hypothesis": "UAV-B报告：天气中雨，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现多辆装甲指挥车。",
+    "hypothesis": "UAV-B报告：该区域无任何燃油补给车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气小雨，能见度良好。",
+    "hypothesis": "UAV-B报告：天气雷暴，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现大量轻型卡车。",
+    "hypothesis": "UAV-B报告：19:30区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间23:50。",
+    "hypothesis": "UAV-B报告：10:30区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现2辆单兵无人机。",
+    "hypothesis": "UAV-B报告：电子战车辆后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为14:15。",
+    "hypothesis": "UAV-B报告：侦察时间为16:40。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度800米。",
+    "hypothesis": "UAV-B报告：油库附近存在积水漫道。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间06:00。",
+    "hypothesis": "UAV-B报告：风速15节。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向西北移动。",
+    "hypothesis": "UAV-B报告：地面潮湿有泥泞。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向西移动。",
+    "hypothesis": "UAV-B报告：14:15区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为23:50。",
+    "hypothesis": "UAV-B报告：侦察时间为10:30。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于废弃工厂。",
+    "hypothesis": "UAV-B报告：Y区域存在混凝土路墩。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现1辆反坦克导弹阵地。",
+    "hypothesis": "UAV-B报告：该区域无任何反坦克导弹阵地。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于水库大坝南侧。",
+    "hypothesis": "UAV-B报告：周边有废弃建筑。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向东北移动。",
+    "hypothesis": "UAV-B报告：目标正向东北移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气中雨。",
+    "hypothesis": "UAV-B报告：信号强度偏弱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为20:10。",
+    "hypothesis": "UAV-B报告：侦察时间为12:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现3辆通信基站。",
+    "hypothesis": "UAV-B报告：该区域无任何装甲运兵车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为19:30。",
+    "hypothesis": "UAV-B报告：侦察时间为13:45。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度100米。",
+    "hypothesis": "UAV-B报告：侦察无人机后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现2辆自行火炮。",
+    "hypothesis": "UAV-B报告：该区域无任何步兵战车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现4辆自行火炮。",
+    "hypothesis": "UAV-B报告：该区域无任何电子战车辆。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向西北移动。",
+    "hypothesis": "UAV-B报告：通信中继车后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间10:30。",
+    "hypothesis": "UAV-B报告：步兵战车后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气大雾。",
+    "hypothesis": "UAV-B报告：Y区域存在积水漫道。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于西侧洼地。",
+    "hypothesis": "UAV-B报告：目标位于水库大坝南侧。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气多云。",
+    "hypothesis": "UAV-B报告：电磁环境复杂。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向西移动。",
+    "hypothesis": "UAV-B报告：目标正向东北移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现3辆指挥所。",
+    "hypothesis": "UAV-B报告：该区域无任何通信基站。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于A阵地。",
+    "hypothesis": "UAV-B报告：10:30区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现多辆补给车队。",
+    "hypothesis": "UAV-B报告：该区域无任何野战医疗队。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为10:30。",
+    "hypothesis": "UAV-B报告：侦察时间为22:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于水库大坝南侧。",
+    "hypothesis": "UAV-B报告：使用跳频技术。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为22:00。",
+    "hypothesis": "UAV-B报告：侦察时间为10:30。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于废弃工厂。",
+    "hypothesis": "UAV-B报告：目标位于工业园区。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为16:40。",
+    "hypothesis": "UAV-B报告：侦察时间为06:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向西南移动。",
+    "hypothesis": "UAV-B报告：06:00区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于Y区域。",
+    "hypothesis": "UAV-B报告：通信基站后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现5辆侦察无人机。",
+    "hypothesis": "UAV-B报告：该区域无任何通信基站。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气暴雨。",
+    "hypothesis": "UAV-B报告：Z高地存在混凝土路墩。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现无无人机蜂群。",
+    "hypothesis": "UAV-B报告：雷达站周边存在雷区标识。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向东北移动。",
+    "hypothesis": "UAV-B报告：防空导弹系统后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气小雨，能见度良好。",
+    "hypothesis": "UAV-B报告：天气大雾，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度1000米。",
+    "hypothesis": "UAV-B报告：08:20区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现大量无人机蜂群。",
+    "hypothesis": "UAV-B报告：该区域无任何燃油补给车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现2辆通信中继车。",
+    "hypothesis": "UAV-B报告：10:30区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于西侧洼地。",
+    "hypothesis": "UAV-B报告：目标位于隧道入口。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向东南移动。",
+    "hypothesis": "UAV-B报告：10:30区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间22:00。",
+    "hypothesis": "UAV-B报告：雷达站周边存在大量障碍物。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于雷达站周边。",
+    "hypothesis": "UAV-B报告：雷达站周边存在混凝土路墩。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气多云，能见度良好。",
+    "hypothesis": "UAV-B报告：天气多云，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现3辆无人机蜂群。",
+    "hypothesis": "UAV-B报告：X区域存在桥梁损毁。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于铁路桥西端。",
+    "hypothesis": "UAV-B报告：目标位于X区域。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现1辆单兵无人机。",
+    "hypothesis": "UAV-B报告：该区域无任何电子战车辆。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为200米。",
+    "hypothesis": "UAV-B报告：目标高度为2000米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间16:40。",
+    "hypothesis": "UAV-B报告：装甲指挥车后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于机场跑道末端。",
+    "hypothesis": "UAV-B报告：目标位于A阵地。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现多辆装甲指挥车。",
+    "hypothesis": "UAV-B报告：该区域无任何无人机蜂群。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现大量侦察无人机。",
+    "hypothesis": "UAV-B报告：废弃工厂存在临时路障。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度200米。",
+    "hypothesis": "UAV-B报告：20:10区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向北移动。",
+    "hypothesis": "UAV-B报告：码头区域存在积水漫道。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向北移动。",
+    "hypothesis": "UAV-B报告：08:20区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度200米。",
+    "hypothesis": "UAV-B报告：工业园区存在车辆残骸。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度1200米。",
+    "hypothesis": "UAV-B报告：通信信号间歇中断。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为06:00。",
+    "hypothesis": "UAV-B报告：侦察时间为16:40。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现1辆轻型卡车。",
+    "hypothesis": "UAV-B报告：该区域无任何补给车队。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现2辆装甲指挥车。",
+    "hypothesis": "UAV-B报告：该区域无任何无人机蜂群。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度1500米。",
+    "hypothesis": "UAV-B报告：13:45区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为16:40。",
+    "hypothesis": "UAV-B报告：侦察时间为23:50。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于3号公路交叉口。",
+    "hypothesis": "UAV-B报告：22:00区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为23:50。",
+    "hypothesis": "UAV-B报告：侦察时间为16:40。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气阴天，能见度良好。",
+    "hypothesis": "UAV-B报告：天气浓雾，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度2000米。",
+    "hypothesis": "UAV-B报告：18:00区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现3辆通信中继车。",
+    "hypothesis": "UAV-B报告：该区域无任何野战医疗队。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度800米。",
+    "hypothesis": "UAV-B报告：A阵地存在车辆残骸。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于A阵地。",
+    "hypothesis": "UAV-B报告：目标位于D村庄。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气大雾，能见度良好。",
+    "hypothesis": "UAV-B报告：天气沙尘，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气阴天。",
+    "hypothesis": "UAV-B报告：峡谷出口存在壕沟拦截。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为16:40。",
+    "hypothesis": "UAV-B报告：侦察时间为20:10。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于东侧山脊。",
+    "hypothesis": "UAV-B报告：目标位于铁路桥西端。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气小雨。",
+    "hypothesis": "UAV-B报告：东侧有临时掩体。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度为1500米。",
+    "hypothesis": "UAV-B报告：目标高度为1200米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现无单兵无人机。",
+    "hypothesis": "UAV-B报告：废弃工厂存在混凝土路墩。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现2辆补给车队。",
+    "hypothesis": "UAV-B报告：风速15节。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度200米。",
+    "hypothesis": "UAV-B报告：油库附近存在车辆残骸。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度1200米。",
+    "hypothesis": "UAV-B报告：油库附近存在铁丝网围栏。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于X区域。",
+    "hypothesis": "UAV-B报告：目标位于机场跑道末端。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间06:00。",
+    "hypothesis": "UAV-B报告：14:15区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度为2000米。",
+    "hypothesis": "UAV-B报告：目标高度为300米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于河谷北侧。",
+    "hypothesis": "UAV-B报告：目标位于X区域。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度2000米。",
+    "hypothesis": "UAV-B报告：燃油补给车后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气大雾，能见度良好。",
+    "hypothesis": "UAV-B报告：天气浓雾，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现大量反坦克导弹阵地。",
+    "hypothesis": "UAV-B报告：南侧桥梁完好。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向东南移动。",
+    "hypothesis": "UAV-B报告：发现红外干扰弹。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于Y区域。",
+    "hypothesis": "UAV-B报告：南侧桥梁完好。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向西移动。",
+    "hypothesis": "UAV-B报告：区域内有牲畜活动。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度800米。",
+    "hypothesis": "UAV-B报告：步兵战车后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间19:30。",
+    "hypothesis": "UAV-B报告：河谷北侧存在铁丝网围栏。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向北移动。",
+    "hypothesis": "UAV-B报告：目标正向东移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现3辆步兵战车。",
+    "hypothesis": "UAV-B报告：区域内有牲畜活动。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现1辆指挥所。",
+    "hypothesis": "UAV-B报告：该区域无任何反坦克导弹阵地。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现多辆通信中继车。",
+    "hypothesis": "UAV-B报告：自行火炮后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度为200米。",
+    "hypothesis": "UAV-B报告：目标高度为1200米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向南移动。",
+    "hypothesis": "UAV-B报告：目标正向西南移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现少量通信基站。",
+    "hypothesis": "UAV-B报告：Z高地存在桥梁损毁。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于机场跑道末端。",
+    "hypothesis": "UAV-B报告：油库附近存在铁丝网围栏。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向西北移动。",
+    "hypothesis": "UAV-B报告：目标正向东移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间16:40。",
+    "hypothesis": "UAV-B报告：北部平原存在雷区标识。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向西北移动。",
+    "hypothesis": "UAV-B报告：热信号微弱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气多云。",
+    "hypothesis": "UAV-B报告：14:15区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气阴天。",
+    "hypothesis": "UAV-B报告：热信号微弱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向西南移动。",
+    "hypothesis": "UAV-B报告：13:45区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气中雨。",
+    "hypothesis": "UAV-B报告：无人机蜂群后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标已摧毁。",
+    "hypothesis": "UAV-B报告：目标持续发射信号。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气小雨。",
+    "hypothesis": "UAV-B报告：18:00区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气浓雾。",
+    "hypothesis": "UAV-B报告：C渡口存在大量障碍物。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度300米。",
+    "hypothesis": "UAV-B报告：地面潮湿有泥泞。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现5辆步兵战车。",
+    "hypothesis": "UAV-B报告：10:30区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现5辆自行火炮。",
+    "hypothesis": "UAV-B报告：该区域无任何雷达站。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度800米。",
+    "hypothesis": "UAV-B报告：废弃工厂存在积水漫道。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于码头区域。",
+    "hypothesis": "UAV-B报告：防空导弹系统后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现多辆装甲运兵车。",
+    "hypothesis": "UAV-B报告：该区域无任何单兵无人机。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于B高地。",
+    "hypothesis": "UAV-B报告：目标位于铁路桥西端。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度500米。",
+    "hypothesis": "UAV-B报告：南部林区存在铁丝网围栏。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于D村庄。",
+    "hypothesis": "UAV-B报告：侦察无人机后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间20:10。",
+    "hypothesis": "UAV-B报告：东侧山脊存在铁丝网围栏。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现1辆电子战车辆。",
+    "hypothesis": "UAV-B报告：该区域无任何反坦克导弹阵地。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现大量火箭炮阵地。",
+    "hypothesis": "UAV-B报告：发现伪装网覆盖。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间19:30。",
+    "hypothesis": "UAV-B报告：22:00区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度为1500米。",
+    "hypothesis": "UAV-B报告：目标高度为800米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气雷暴。",
+    "hypothesis": "UAV-B报告：指挥所后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现4辆工程保障车。",
+    "hypothesis": "UAV-B报告：该区域无任何补给车队。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度100米。",
+    "hypothesis": "UAV-B报告：河谷北侧存在雷区标识。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为23:50。",
+    "hypothesis": "UAV-B报告：侦察时间为08:20。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于B高地。",
+    "hypothesis": "UAV-B报告：目标位于3号公路交叉口。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为300米。",
+    "hypothesis": "UAV-B报告：目标高度为300米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现1辆工程保障车。",
+    "hypothesis": "UAV-B报告：该区域无任何通信中继车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向西南移动。",
+    "hypothesis": "UAV-B报告：目标正向西移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气阴天，能见度良好。",
+    "hypothesis": "UAV-B报告：天气沙尘，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现大量防空导弹系统。",
+    "hypothesis": "UAV-B报告：指挥所后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于北部平原。",
+    "hypothesis": "UAV-B报告：目标位于废弃工厂。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于C渡口。",
+    "hypothesis": "UAV-B报告：目标位于北部平原。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为14:15。",
+    "hypothesis": "UAV-B报告：侦察时间为22:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现4辆野战医疗队。",
+    "hypothesis": "UAV-B报告：该区域无任何步兵战车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间19:30。",
+    "hypothesis": "UAV-B报告：19:30区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为08:20。",
+    "hypothesis": "UAV-B报告：侦察时间为18:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向西移动。",
+    "hypothesis": "UAV-B报告：目标正向西南移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于C渡口。",
+    "hypothesis": "UAV-B报告：目标位于机场跑道末端。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于西侧洼地。",
+    "hypothesis": "UAV-B报告：目标位于东侧山脊。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现4辆补给车队。",
+    "hypothesis": "UAV-B报告：该区域无任何步兵战车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气阴天。",
+    "hypothesis": "UAV-B报告：铁路桥西端存在雷区标识。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向北移动。",
+    "hypothesis": "UAV-B报告：西侧洼地存在桥梁损毁。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于东侧山脊。",
+    "hypothesis": "UAV-B报告：目标位于C渡口。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为10:30。",
+    "hypothesis": "UAV-B报告：侦察时间为18:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气晴朗，能见度良好。",
+    "hypothesis": "UAV-B报告：天气沙尘，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现4辆反坦克导弹阵地。",
+    "hypothesis": "UAV-B报告：该区域无任何指挥所。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现2辆通信中继车。",
+    "hypothesis": "UAV-B报告：火箭炮阵地后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向北移动。",
+    "hypothesis": "UAV-B报告：目标正向东南移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现少量通信中继车。",
+    "hypothesis": "UAV-B报告：区域内有牲畜活动。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向西移动。",
+    "hypothesis": "UAV-B报告：目标正向北移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间18:00。",
+    "hypothesis": "UAV-B报告：码头区域存在临时路障。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于油库附近。",
+    "hypothesis": "UAV-B报告：10:30区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度为100米。",
+    "hypothesis": "UAV-B报告：目标高度为1000米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于雷达站周边。",
+    "hypothesis": "UAV-B报告：火箭炮阵地后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向北移动。",
+    "hypothesis": "UAV-B报告：目标正向西移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为10:30。",
+    "hypothesis": "UAV-B报告：侦察时间为23:50。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为12:00。",
+    "hypothesis": "UAV-B报告：侦察时间为16:40。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于东侧山脊。",
+    "hypothesis": "UAV-B报告：目标位于河谷北侧。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气中雨，能见度良好。",
+    "hypothesis": "UAV-B报告：天气中雨，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度1000米。",
+    "hypothesis": "UAV-B报告：20:10区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度为1000米。",
+    "hypothesis": "UAV-B报告：目标高度为1200米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为13:45。",
+    "hypothesis": "UAV-B报告：侦察时间为19:30。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气暴雨。",
+    "hypothesis": "UAV-B报告：16:40区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间08:20。",
+    "hypothesis": "UAV-B报告：电磁环境复杂。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气大雾。",
+    "hypothesis": "UAV-B报告：东侧山脊存在大量障碍物。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气雷暴，能见度良好。",
+    "hypothesis": "UAV-B报告：天气暴雨，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度1500米。",
+    "hypothesis": "UAV-B报告：20:10区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为14:15。",
+    "hypothesis": "UAV-B报告：侦察时间为10:30。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为18:00。",
+    "hypothesis": "UAV-B报告：侦察时间为08:20。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气浓雾。",
+    "hypothesis": "UAV-B报告：20:10区域出现灯光。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于X区域。",
+    "hypothesis": "UAV-B报告：目标位于A阵地。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向西移动。",
+    "hypothesis": "UAV-B报告：水库大坝南侧存在桥梁损毁。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向北移动。",
+    "hypothesis": "UAV-B报告：南侧桥梁完好。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度1000米。",
+    "hypothesis": "UAV-B报告：16:40区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于雷达站周边。",
+    "hypothesis": "UAV-B报告：山顶观测点存在车辆残骸。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现4辆无人机蜂群。",
+    "hypothesis": "UAV-B报告：该区域无任何装甲指挥车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为10:30。",
+    "hypothesis": "UAV-B报告：侦察时间为12:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于峡谷出口。",
+    "hypothesis": "UAV-B报告：目标位于西侧洼地。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间10:30。",
+    "hypothesis": "UAV-B报告：南部林区存在树木倒伏。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为06:00。",
+    "hypothesis": "UAV-B报告：侦察时间为19:30。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现4辆雷达站。",
+    "hypothesis": "UAV-B报告：该区域无任何电子战车辆。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现多辆自行火炮。",
+    "hypothesis": "UAV-B报告：无人机蜂群后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气浓雾。",
+    "hypothesis": "UAV-B报告：周边有废弃建筑。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间10:30。",
+    "hypothesis": "UAV-B报告：燃油补给车后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向西移动。",
+    "hypothesis": "UAV-B报告：峡谷出口存在雷区标识。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为16:40。",
+    "hypothesis": "UAV-B报告：侦察时间为10:30。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向西北移动。",
+    "hypothesis": "UAV-B报告：目标正向东北移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度1200米。",
+    "hypothesis": "UAV-B报告：防空导弹系统后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向北移动。",
+    "hypothesis": "UAV-B报告：19:30区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于北部平原。",
+    "hypothesis": "UAV-B报告：目标位于A阵地。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现大量雷达站。",
+    "hypothesis": "UAV-B报告：轻型卡车后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气浓雾，能见度良好。",
+    "hypothesis": "UAV-B报告：天气小雨，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现2辆反坦克导弹阵地。",
+    "hypothesis": "UAV-B报告：X区域存在雷区标识。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现5辆通信中继车。",
+    "hypothesis": "UAV-B报告：空中有鸟群干扰。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为22:00。",
+    "hypothesis": "UAV-B报告：侦察时间为22:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现1辆装甲指挥车。",
+    "hypothesis": "UAV-B报告：该区域无任何单兵无人机。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气小雨，能见度良好。",
+    "hypothesis": "UAV-B报告：天气浓雾，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间13:45。",
+    "hypothesis": "UAV-B报告：南部林区存在大量障碍物。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于A阵地。",
+    "hypothesis": "UAV-B报告：目标位于机场跑道末端。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气中雨，能见度良好。",
+    "hypothesis": "UAV-B报告：天气暴雨，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于Z高地。",
+    "hypothesis": "UAV-B报告：目标位于废弃工厂。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为100米。",
+    "hypothesis": "UAV-B报告：目标高度为1200米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为13:45。",
+    "hypothesis": "UAV-B报告：侦察时间为22:00。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间08:20。",
+    "hypothesis": "UAV-B报告：反坦克导弹阵地后方有步兵。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于山顶观测点。",
+    "hypothesis": "UAV-B报告：电子战车辆后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标已沉默。",
+    "hypothesis": "UAV-B报告：目标仍在活动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度200米。",
+    "hypothesis": "UAV-B报告：周边有平民活动。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于C渡口。",
+    "hypothesis": "UAV-B报告：目标位于变电站北侧。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向南移动。",
+    "hypothesis": "UAV-B报告：目标正向东移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于码头区域。",
+    "hypothesis": "UAV-B报告：目标位于机场跑道末端。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向西北移动。",
+    "hypothesis": "UAV-B报告：目标正向西移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：发现多辆装甲指挥车。",
+    "hypothesis": "UAV-B报告：发现红外干扰弹。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向西移动。",
+    "hypothesis": "UAV-B报告：目标正向西移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向东南移动。",
+    "hypothesis": "UAV-B报告：目标正向南移动。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气沙尘。",
+    "hypothesis": "UAV-B报告：峡谷出口存在混凝土路墩。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度300米。",
+    "hypothesis": "UAV-B报告：指挥所后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向南移动。",
+    "hypothesis": "UAV-B报告：通信信号间歇中断。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度2000米。",
+    "hypothesis": "UAV-B报告：侦察无人机后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为19:30。",
+    "hypothesis": "UAV-B报告：侦察时间为14:15。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为18:00。",
+    "hypothesis": "UAV-B报告：侦察时间为19:30。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度为500米。",
+    "hypothesis": "UAV-B报告：目标高度为1200米。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气暴雨。",
+    "hypothesis": "UAV-B报告：C渡口存在混凝土路墩。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：侦察时间22:00。",
+    "hypothesis": "UAV-B报告：单兵无人机后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气中雨，能见度良好。",
+    "hypothesis": "UAV-B报告：天气晴朗，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气雷暴，能见度良好。",
+    "hypothesis": "UAV-B报告：天气小雨，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度500米。",
+    "hypothesis": "UAV-B报告：东侧有临时掩体。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于山顶观测点。",
+    "hypothesis": "UAV-B报告：12:00区域出现扬尘。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向西移动。",
+    "hypothesis": "UAV-B报告：防空导弹系统后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现1辆装甲运兵车。",
+    "hypothesis": "UAV-B报告：该区域无任何轻型卡车。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间18:00。",
+    "hypothesis": "UAV-B报告：补给车队后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气多云。",
+    "hypothesis": "UAV-B报告：热信号微弱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气大雾，能见度良好。",
+    "hypothesis": "UAV-B报告：天气中雨，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度300米。",
+    "hypothesis": "UAV-B报告：Z高地存在雷区标识。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气大雾。",
+    "hypothesis": "UAV-B报告：探测到低频振动。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标位于Y区域。",
+    "hypothesis": "UAV-B报告：目标位于工业园区。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标位于铁路桥西端。",
+    "hypothesis": "UAV-B报告：目标位于水库大坝南侧。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为14:15。",
+    "hypothesis": "UAV-B报告：侦察时间为08:20。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：天气浓雾，能见度良好。",
+    "hypothesis": "UAV-B报告：天气阴天，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标高度100米。",
+    "hypothesis": "UAV-B报告：C渡口存在桥梁损毁。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标正向东北移动。",
+    "hypothesis": "UAV-B报告：13:45区域出现烟雾。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气雷暴。",
+    "hypothesis": "UAV-B报告：装甲运兵车后方有指挥人员。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：目标高度200米。",
+    "hypothesis": "UAV-B报告：步兵战车后方有补给箱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气雷暴。",
+    "hypothesis": "UAV-B报告：X区域存在壕沟拦截。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：发现少量火箭炮阵地。",
+    "hypothesis": "UAV-B报告：该区域无任何侦察无人机。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间为20:10。",
+    "hypothesis": "UAV-B报告：侦察时间为10:30。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：侦察时间22:00。",
+    "hypothesis": "UAV-B报告：热信号微弱。",
+    "label": 0
+  },
+  {
+    "premise": "UAV-A报告：天气晴朗，能见度良好。",
+    "hypothesis": "UAV-B报告：天气中雨，能见度极低。",
+    "label": 1
+  },
+  {
+    "premise": "UAV-A报告：目标正向西移动。",
+    "hypothesis": "UAV-B报告：东侧有临时掩体。",
+    "label": 0
+  }
+]
