@@ -4,7 +4,7 @@ UAV NLI 矛盾检测 - 一键运行脚本
 
 用法：
   python run.py --dataset easy
-  python run.py -d en_complex -m cross-encoder/nli-deberta-v3-large -b 8
+  python run.py -d easy -m cross-encoder/nli-deberta-v3-large -b 1
 """
 
 import argparse
